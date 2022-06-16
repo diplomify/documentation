@@ -1,0 +1,10 @@
+site_name: Diplomify
+theme:
+  name: 'material'
+  language: de
+nav:
+  - 'Übersicht': index.md
+  - 'Lehrer':
+    - 'Klassen': 'teachers/classes.md'
+  - 'Administratoren':
+    - 'Klassen': 'admins/classes.md'
