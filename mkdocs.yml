@@ -1,10 +1,43 @@
-site_name: Diplomify
+site_name: Diplomify - Hilfecenter
+
 theme:
-  name: 'material'
+  name: material
+  favicon: img/assets/logo_medal.svg
   language: de
+  features:
+   
+    - navigation.tracking
+    - navigation.expand
+    - navigation.top
+    - navigation.sections
+   
+  font: false   
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - meta
+
+
+plugins:
+  - glightbox
+  - search
+  - tags
+
 nav:
-  - 'Übersicht': index.md
+  - 'Quick-Start': 'quick_start.md'
   - 'Lehrer':
-    - 'Klassen': 'teachers/classes.md'
+    - 'Bewertungsübersicht': 'teachers/grades.md'
+    - 'Klassenübersicht': 'teachers/classes.md'
+    - 'Mein Unterricht': 'teachers/lessons.md'
+    - 'Konferenzmodus': 'teachers/conference.md'
+    - 'Schüler*innenübersicht': 'teachers/students.md'
   - 'Administratoren':
     - 'Klassen': 'admins/classes.md'
+  - 'Featureübersicht': 'featureuebersicht.md'

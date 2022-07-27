@@ -3,4 +3,4 @@ hide:
   - footer
 ---
 
-# Klassenübersicht
+# Mein Unterricht

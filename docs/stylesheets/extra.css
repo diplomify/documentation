@@ -1,0 +1,152 @@
+:root > * {
+--md-primary-fg-color: #B53AD2;
+background-color: #F6F7F8;
+}
+
+/* ::::::::::::: Boxes ::::::::::::: */
+
+/* ------------- Descriptions ------------- */
+.md-typeset .admonition.box,
+.md-typeset details.box {
+    border: none;
+    background-color: white !important;
+}
+
+.md-typeset .box > .admonition-title,
+.md-typeset .box > summary {
+    background-color: white;
+    border: none;
+}
+.md-typeset .box > .admonition-title::before,
+.md-typeset .box > summary::before {
+    background-color: var(--md-primary-fg-color);
+}
+
+.md-typeset .admonition.box, .md-typeset details.box {
+    border-radius: 7px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;
+    -webkit-box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;
+}
+
+.md-typeset :is(.admonition,details) {
+    margin: .7rem 0;
+}
+
+.md-typeset :-webkit-any(.admonition,details) {
+    margin: .7rem 0;
+}
+
+[dir=ltr] .md-typeset :is(.admonition-title,summary) {
+    margin-left: -0.2rem;
+    margin-right: -0.2rem;
+    padding: 0.5rem;
+    color: black;
+}
+
+[dir=ltr] .md-typeset :is(.admonition-title,summary):hover {
+    margin-left: -0.2rem;
+    margin-right: -0.2rem;
+    padding: 0.5rem;
+    color: var(--md-primary-fg-color);
+    border-bottom: #F6F7F8;
+    font-weight: 700;
+}
+
+[dir=ltr] .md-typeset :-webkit-any(.admonition-title,summary) {
+    margin-left: -0.2rem;
+    margin-right: -0.2rem;
+    padding: 0.5rem;
+    color: black;
+    font-weight: 400;
+
+}
+
+[dir=ltr] .md-typeset :-webkit-any(.admonition-title,summary):hover {
+    margin-left: -0.2rem;
+    margin-right: -0.2rem;
+    padding: 0.5rem;
+    color: var(--md-primary-fg-color);
+    border-bottom: #F6F7F8;
+}
+
+.md-typeset .box > summary::before {
+    display: none;
+}
+
+/* html .md-typeset :-webkit-any(.admonition,details)>:nth-child(2) {
+    border-top: 1px solid #E7EAED;
+    padding-top: 1.5rem;
+} */
+
+/* ------------- Tips ------------- */
+.md-typeset .admonition.tip,
+.md-typeset details.box {
+    border-radius: 7px;
+    border: none;
+    background-color: #D0F1D8;
+}
+
+.md-typeset .admonition.tip {
+    margin-top: -1.5rem;
+}
+
+.md-typeset .admonition.tip, .md-typeset details.tip {
+    box-shadow: none;
+    -webkit-box-shadow: none;
+}   
+
+.md-typeset :is(.admonition,details) {
+    font-size: .7rem;
+}
+
+.md-content {
+    border-left: 1px solid #CDCDCD;
+}
+
+/* ------------- Absätze (p) ------------- */
+.md-typeset .admonition.p,
+.md-typeset details.p {
+    border: none;
+    background-color: white;
+    padding-bottom: 1.5rem;
+}
+
+.md-typeset .admonition.p, .md-typeset details.p {
+    box-shadow: none;
+    -webkit-box-shadow: none;
+}  
+
+/* ::::::::::::: Fonts ::::::::::::: */
+
+.md-typeset h1 {
+    margin-bottom: 3rem;
+}
+
+.md-typeset h2 {
+    margin-top: .5rem;
+    border-bottom: 1px solid #CDCDCD;
+    color: #B53AD2;
+}
+
+/* ::::::::::::: Images ::::::::::::: */
+
+.md-typeset img, .md-typeset svg {
+    border: 5px solid white;
+
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;
+    -webkit-box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;
+}
+
+.md-typeset img[align]:only-child, .md-typeset svg[align]:only-child {
+    width: 200px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;
+    -webkit-box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;
+} 
+
+.gslide-image img {
+    border-radius: 7px;   
+}
+
+.glightbox-clean .gslide-media {
+    border-radius: 7px;
+}

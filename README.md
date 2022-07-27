@@ -14,3 +14,15 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+## Install
+
+    pip install -r requirements.txt
+
+## Start Server
+
+    mkdocs serve --dev-addr 127.0.0.1:8001
+
+## Link to Heading IDs
+
+    [Heading IDs](#headingid)
