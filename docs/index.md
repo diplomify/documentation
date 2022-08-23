@@ -1,28 +1,94 @@
 ---
 hide:
+  - navigation
   - footer
+  - toc
+
 ---
 
-# Welcome to MkDocs
+<!-- # Hi. Wie können wir dir helfen?
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Quick Start
+Schritt_für_Schritt Anleitungen
+Arbeitsbereiche
+Komfortfunktionen
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Administration
 
 
-Test image
 
-![Test alternative text](img/img.png)
+![Fächer filtern](/img/my_lessons.png){ align=left  }
+![Fächer filtern](/img/my_lessons.png){ align=left  }
+![Fächer filtern](/img/my_lessons.png){ align=left  }
+![Fächer filtern](/img/my_lessons.png){ align=left  } -->
 
+
+
+
+# Hi. Wie können wir dir helfen?
+<br>
+<br>
+<p style="text-align: center"><h4>Unsere Empfehlungen</h4></p>
+
+
+<div class="space-around">
+  <a href="/img/quick_start/bewertungsuebersicht.png" target="_blank">
+      <figure>
+          <figcaption class="img-caption">Bewertungsübersicht</figcaption>
+          <img class="image scale" src="/img/quick_start/bewertungsuebersicht.png" alt="Mein Unterricht" width="300" height="">
+      </figure>
+  </a>
+
+  <a href="/img/quick_start/klassenuebersicht.png" target="_blank">
+      <figure>
+          <figcaption class="img-caption">Klassenübersicht</figcaption>
+          <img class="image scale" src="/img/quick_start/klassenuebersicht.png" alt="Mein Unterricht" width="300" height="">
+      </figure>
+  </a>
+
+  <a href="/img/quick_start/mein_unterricht.png" target="_blank">
+      <figure>
+          <figcaption class="img-caption">Mein Unterricht</figcaption>
+          <img class="image scale" src="/img/quick_start/mein_unterricht.png" alt="Mein Unterricht" width="300" height="">
+      </figure>
+  </a>
+</div>
+<br>
+---
+<br>
+<p style="text-align: center"><h4>Alle Anleitungen</h4></p>
+
+!!! box ""
+    <img class="img-small-left" src="/img/assets/icons/route.png" align="left">
+    ### Schritt für Schritt Anleitungen
+
+    Einfache Erklärungen typischer Aufgaben - Schritt für Schritt.
+
+
+    [weiterlesen...](Anleitungen/Schritt_für_Schritt/Arbeits-_&_Sozialverhalten.md)
+
+!!! box ""
+    <img class="img-small-left" src="/img/assets/icons/lagen.png" align="left">
+    ### Arbeitsbereiche
+
+    Lerne hier die einzelnen Arbeitsbereiche in Diplomify kennen - und was du dort alles machen kannst.
+
+
+    [weiterlesen...](Anleitungen/Arbeitsbereiche/Bewertungsuebersicht.md)
+
+
+!!! box ""
+    <img class="img-small-left" src="/img/assets/icons/zauberstab.png" align="left">
+    ### Komfortfunktionen
+
+    Diplomify unterstützt dich bei der Arbeit. Lerne hier, wie genau.
+
+    [weiterlesen...](quick_start.md)
+---
+!!! box_alert ""
+    <img class="img-small-left" src="/img/assets/icons/schlussel.png" align="left">
+    ### Administration
+
+    Diplomify unterstützt dich bei der Arbeit. Lerne hier, wie genau.
+
+    [weiterlesen...](quick_start.md)
