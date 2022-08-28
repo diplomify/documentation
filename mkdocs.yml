@@ -1,11 +1,11 @@
-site_name: Diplomify - Hilfecenter
+site_name: Diplomify - Academy
 
 theme:
   name: material
   favicon: img/assets/logo_medal.svg
   language: de
   features:
-   
+    - navigation.tabs
     - navigation.tracking
     - navigation.expand
     - navigation.top
@@ -22,8 +22,11 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
-  - meta
-
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - tables
+  - pymdownx.keys
 
 plugins:
   - glightbox
@@ -31,13 +34,37 @@ plugins:
   - tags
 
 nav:
-  - 'Quick-Start': 'quick_start.md'
-  - 'Lehrer':
-    - 'Bewertungsübersicht': 'teachers/grades.md'
-    - 'Klassenübersicht': 'teachers/classes.md'
-    - 'Mein Unterricht': 'teachers/lessons.md'
-    - 'Konferenzmodus': 'teachers/conference.md'
-    - 'Schüler*innenübersicht': 'teachers/students.md'
-  - 'Administratoren':
-    - 'Klassen': 'admins/classes.md'
-  - 'Featureübersicht': 'featureuebersicht.md'
+  - 'Startseite': 'index.md'
+
+  - 'Schritt für Schritt Anleitungen':
+    - 'Bewerten':
+      - 'Noten eintragen': 'Anleitungen/Schritt_für_Schritt/Noten_eintragen.md' 
+    - 'Klassenübersicht':
+      - 'Arbeits- & Sozialverhalten**': 'Anleitungen/Schritt_für_Schritt/Arbeits-_&_Sozialverhalten.md'
+      - 'Dich selbst als Klassenleitung eintragen': 'Anleitungen/Schritt_für_Schritt/Dich_selbst_als_Klassenleitung_eintragen.md'
+      - 'Fehltage': 'Anleitungen/Schritt_für_Schritt/Fehltage.md'
+      - 'Kolleg*innen erinnern': 'Anleitungen/Schritt_für_Schritt/Kolleg*innen_erinnern.md'
+      - 'Zeugniskonferenz**': 'Anleitungen/Schritt_für_Schritt/Zeugniskonferenz_durchführen.md'
+      - 'Zeugnisdaten ändern': 'Anleitungen/Schritt_für_Schritt/Zeugnisdaten_ändern.md'
+      - 'Zeugnisse erstellen': 'Anleitungen/Schritt_für_Schritt/Zeugnisse_erstellen.md'
+      - 'Zeugnisse zum Druck freigeben': 'Anleitungen/Schritt_für_Schritt/Zeugnisse_zum_Druck_freigeben.md'
+      - 'Zeugnisse zuordnen': 'Anleitungen/Schritt_für_Schritt/Zeugnisse_zuordnen.md'
+    - 'Mein Unterricht':
+      - 'Klassen & Kurse anlegen': 'Anleitungen/Schritt_für_Schritt/Klassen_und_Kurse_anlegen.md'     
+  
+  - 'Arbeitsbereiche':
+     - 'Die Bewertungsübersicht': 'Anleitungen/Arbeitsbereiche/Bewertungsuebersicht.md'
+     - 'Die Checkliste': 'Anleitungen/Arbeitsbereiche/Die Checkliste.md'
+     - 'Die Einzelfachansicht': 'Anleitungen/Arbeitsbereiche/Die Einzelfachansicht.md'
+     - 'Die Klassenübersicht': 'Anleitungen/Arbeitsbereiche/Die Klassenübersicht.md'
+     - 'Mein Unterricht': 'Anleitungen/Arbeitsbereiche/Mein Unterricht.md'
+     - 'Schüler*innen Stammdaten': 'Anleitungen/Arbeitsbereiche/Schüler*innen Stammdaten.md'
+     - 'Mein Profil': 'Anleitungen/Arbeitsbereiche/Dein Profil.md'
+
+  - 'Komfortfunktionen':
+    - 'Die Bewertungsübersicht': 'Anleitungen/Arbeitsbereiche/Bewertungsübersicht.md'
+
+  - 'Administration':
+    - 'Die Bewertungsübersicht': 'Anleitungen/Arbeitsbereiche/Bewertungsübersicht.md'
+
+
