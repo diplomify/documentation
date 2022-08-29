@@ -3,7 +3,6 @@ hide:
   - navigation
   - footer
   - toc
-
 ---
 
 <!-- # Hi. Wie können wir dir helfen?
@@ -59,7 +58,7 @@ Administration
 <p style="text-align: center"><h4>Alle Anleitungen</h4></p>
 
 !!! box ""
-    <img class="img-small-left" src="/img/assets/icons/route.png" align="left">
+    <img class="off-glb img-small-left" src="/img/assets/icons/route.png" align="left">
     ### Schritt für Schritt Anleitungen
 
     Einfache Erklärungen typischer Aufgaben - Schritt für Schritt.
@@ -68,7 +67,7 @@ Administration
     [weiterlesen...](Anleitungen/Schritt_für_Schritt/Arbeits-_&_Sozialverhalten.md)
 
 !!! box ""
-    <img class="img-small-left" src="/img/assets/icons/lagen.png" align="left">
+    <img class="off-glb img-small-left" src="/img/assets/icons/lagen.png" align="left">
     ### Arbeitsbereiche
 
     Lerne hier die einzelnen Arbeitsbereiche in Diplomify kennen - und was du dort alles machen kannst.
@@ -78,7 +77,7 @@ Administration
 
 
 !!! box ""
-    <img class="img-small-left" src="/img/assets/icons/zauberstab.png" align="left">
+    <img class="off-glb img-small-left" src="/img/assets/icons/zauberstab.png" align="left">
     ### Komfortfunktionen
 
     Diplomify unterstützt dich bei der Arbeit. Lerne hier, wie genau.
@@ -86,7 +85,7 @@ Administration
     [weiterlesen...](quick_start.md)
 ---
 !!! box_alert ""
-    <img class="img-small-left" src="/img/assets/icons/schlussel.png" align="left">
+    <img class="off-glb img-small-left" src="/img/assets/icons/schlussel.png" align="left">
     ### Administration
 
     Diplomify unterstützt dich bei der Arbeit. Lerne hier, wie genau.
