@@ -5,7 +5,11 @@ hide:
   - toc
 ---
 
+<<<<<<< HEAD
+# Hi. Wie können wir helfen?
+=======
 # Hi. Wie können wir dir helfen?
+>>>>>>> origin/main
 <br>
 <br>
 <p style="text-align: center"><h4>Unsere Empfehlungen</h4></p>
@@ -47,18 +51,28 @@ hide:
 
     [weiterlesen...](Anleitungen/Schritt_für_Schritt/Arbeits-_&_Sozialverhalten.md)
 
+<<<<<<< HEAD
+<!-- !!! box ""
+    <img class="img-small-left" src="/img/assets/icons/lagen.png" align="left">
+=======
 !!! box ""
     <img class="off-glb img-small-left" src="./img/assets/icons/lagen.png" align="left">
+>>>>>>> origin/main
     ### Arbeitsbereiche
 
     Lerne hier die einzelnen Arbeitsbereiche in Diplomify kennen - und was du dort alles machen kannst.
 
 
-    [weiterlesen...](Anleitungen/Arbeitsbereiche/Bewertungsuebersicht.md)
+    [weiterlesen...](Anleitungen/Arbeitsbereiche/Bewertungsuebersicht.md) -->
 
 
+<<<<<<< HEAD
+<!-- !!! box ""
+    <img class="img-small-left" src="/img/assets/icons/zauberstab.png" align="left">
+=======
 !!! box ""
     <img class="off-glb img-small-left" src="./img/assets/icons/zauberstab.png" align="left">
+>>>>>>> origin/main
     ### Komfortfunktionen
 
     Diplomify unterstützt dich bei der Arbeit. Lerne hier, wie genau.
@@ -71,4 +85,4 @@ hide:
 
     Diplomify unterstützt dich bei der Arbeit. Lerne hier, wie genau.
 
-    [weiterlesen...](quick_start.md)
+    [weiterlesen...](Anleitungen/Administration/Übersicht.md) -->

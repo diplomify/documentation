@@ -48,7 +48,7 @@ nav:
     - 'Bewerten':
       - 'Noten eintragen': 'Anleitungen/Schritt_für_Schritt/Noten_eintragen.md' 
     - 'Klassenübersicht':
-      - 'Arbeits- & Sozialverhalten**': 'Anleitungen/Schritt_für_Schritt/Arbeits-_&_Sozialverhalten.md'
+      - 'Arbeits- & Sozialverhalten': 'Anleitungen/Schritt_für_Schritt/Arbeits-_&_Sozialverhalten.md'
       - 'Dich selbst als Klassenleitung eintragen': 'Anleitungen/Schritt_für_Schritt/Dich_selbst_als_Klassenleitung_eintragen.md'
       - 'Fehltage': 'Anleitungen/Schritt_für_Schritt/Fehltage.md'
       - 'Kolleg*innen erinnern': 'Anleitungen/Schritt_für_Schritt/Kolleg*innen_erinnern.md'
@@ -60,6 +60,8 @@ nav:
     - 'Mein Unterricht':
       - 'Klassen & Kurse anlegen': 'Anleitungen/Schritt_für_Schritt/Klassen_und_Kurse_anlegen.md'     
   
+<<<<<<< HEAD
+=======
   - 'Arbeitsbereiche':
      - 'Die Bewertungsübersicht': 'Anleitungen/Arbeitsbereiche/Bewertungsuebersicht.md'
      - 'Die Checkliste': 'Anleitungen/Arbeitsbereiche/Die Checkliste.md'
@@ -74,5 +76,6 @@ nav:
 
   - 'Administration':
     - 'Die Bewertungsübersicht': 'Anleitungen/Arbeitsbereiche/Bewertungsuebersicht.md'
+>>>>>>> origin/main
 
 
