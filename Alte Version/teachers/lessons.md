@@ -1,6 +1,0 @@
----
-hide:
-  - footer
----
-
-# Mein Unterricht

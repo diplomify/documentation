@@ -6,26 +6,7 @@ hide:
 
 ---
 
-<!-- # Hi. Wie können wir dir helfen?
-
-Quick Start
-Schritt_für_Schritt Anleitungen
-Arbeitsbereiche
-Komfortfunktionen
-
-Administration
-
-
-
-![Fächer filtern](/img/my_lessons.png){ align=left  }
-![Fächer filtern](/img/my_lessons.png){ align=left  }
-![Fächer filtern](/img/my_lessons.png){ align=left  }
-![Fächer filtern](/img/my_lessons.png){ align=left  } -->
-
-
-
-
-# Hi. Wie können wir dir helfen?
+# Hi. Wie können wir helfen?
 <br>
 <br>
 <p style="text-align: center"><h4>Unsere Empfehlungen</h4></p>
@@ -67,17 +48,17 @@ Administration
 
     [weiterlesen...](Anleitungen/Schritt_für_Schritt/Arbeits-_&_Sozialverhalten.md)
 
-!!! box ""
+<!-- !!! box ""
     <img class="img-small-left" src="/img/assets/icons/lagen.png" align="left">
     ### Arbeitsbereiche
 
     Lerne hier die einzelnen Arbeitsbereiche in Diplomify kennen - und was du dort alles machen kannst.
 
 
-    [weiterlesen...](Anleitungen/Arbeitsbereiche/Bewertungsuebersicht.md)
+    [weiterlesen...](Anleitungen/Arbeitsbereiche/Bewertungsuebersicht.md) -->
 
 
-!!! box ""
+<!-- !!! box ""
     <img class="img-small-left" src="/img/assets/icons/zauberstab.png" align="left">
     ### Komfortfunktionen
 
@@ -91,4 +72,4 @@ Administration
 
     Diplomify unterstützt dich bei der Arbeit. Lerne hier, wie genau.
 
-    [weiterlesen...](quick_start.md)
+    [weiterlesen...](Anleitungen/Administration/Übersicht.md) -->

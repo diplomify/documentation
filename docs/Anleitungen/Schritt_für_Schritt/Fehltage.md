@@ -10,7 +10,8 @@ hide:
 ## Fehltage eintragen
 **Wechsle dazu in die Klassenübersicht**
 
-1. Klicke auf den Wert, den du verändern möchtest.
+1. Wähle den Reiter "Fehltage"
+2. Klicke auf den Wert, den du verändern möchtest.
     - Weiter mit ++tab++.
     - Beenden mit ++enter++.
 <br>
