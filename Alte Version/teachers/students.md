@@ -1,7 +1,0 @@
----
-hide:
-  - footer
----
-
-# Schüler*innenübersicht
-
