@@ -7,6 +7,7 @@ hide:
 ![Image title](/img/02_Schritt_für_Schritt/av_sv.png){ .img-head }
 
 <br>
+<<<<<<< HEAD
 ## Arbeits- und Sozialverhalten bewerten
 
 1. Wähle den/die Schüler/in in der Liste aus.
@@ -21,6 +22,9 @@ Dir werden jetzt die Floskeln angezeigt, die vom Administrator für die gewählt
 Ein Klick auf die gewünschte Floskel fügt sie in das Bemerkungsfeld ein. <br>
 Du kannst natürlich immer auch eigene Texte eintragen.<br>
 
+=======
+![Image title](./../../img/02_Schritt_für_Schritt/av_sv.png)
+>>>>>>> origin/main
 
 <br>
 ## Bemerkungen eintragen

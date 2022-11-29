@@ -18,6 +18,7 @@ extra_css:
 
 markdown_extensions:
   - attr_list
+  - meta
   - md_in_html
   - admonition
   - pymdownx.details
@@ -29,7 +30,14 @@ markdown_extensions:
   - pymdownx.keys
 
 plugins:
-  - glightbox
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      width: 100%
+      height: auto
+      zoomable: true
+      draggable: true
   - search
   - tags
 
@@ -52,5 +60,22 @@ nav:
     - 'Mein Unterricht':
       - 'Klassen & Kurse anlegen': 'Anleitungen/Schritt_für_Schritt/Klassen_und_Kurse_anlegen.md'     
   
+<<<<<<< HEAD
+=======
+  - 'Arbeitsbereiche':
+     - 'Die Bewertungsübersicht': 'Anleitungen/Arbeitsbereiche/Bewertungsuebersicht.md'
+     - 'Die Checkliste': 'Anleitungen/Arbeitsbereiche/Die Checkliste.md'
+     - 'Die Einzelfachansicht': 'Anleitungen/Arbeitsbereiche/Die Einzelfachansicht.md'
+     - 'Die Klassenübersicht': 'Anleitungen/Arbeitsbereiche/Die Klassenübersicht.md'
+     - 'Mein Unterricht': 'Anleitungen/Arbeitsbereiche/Mein Unterricht.md'
+     - 'Schüler*innen Stammdaten': 'Anleitungen/Arbeitsbereiche/Schüler*innen Stammdaten.md'
+     - 'Mein Profil': 'Anleitungen/Arbeitsbereiche/Dein Profil.md'
+
+  - 'Komfortfunktionen':
+    - 'Die Bewertungsübersicht': 'Anleitungen/Arbeitsbereiche/Bewertungsuebersicht.md'
+
+  - 'Administration':
+    - 'Die Bewertungsübersicht': 'Anleitungen/Arbeitsbereiche/Bewertungsuebersicht.md'
+>>>>>>> origin/main
 
 

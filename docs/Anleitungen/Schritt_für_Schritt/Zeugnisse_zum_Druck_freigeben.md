@@ -3,7 +3,7 @@ hide:
   - footer
 ---
 
-![Druckfreigabe](/img/02_Schritt_für_Schritt/druckfreigabe.png){ .img-head }
+![Druckfreigabe](../../img/02_Schritt_für_Schritt/druckfreigabe.png){ .img-head }
 <br><br>
 !!! note ""
     **Warum muss ich das überhaupt machen?**<br>
