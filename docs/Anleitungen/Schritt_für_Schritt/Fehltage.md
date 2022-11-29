@@ -3,7 +3,7 @@ hide:
   - footer
 ---
 
-![Fehltage](/img/02_Schritt_für_Schritt/fehltage.png){ .img-head }
+![Fehltage](../../img/02_Schritt_für_Schritt/fehltage.png){ .img-head }
 <br>
 <br>
 

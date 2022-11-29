@@ -3,7 +3,7 @@ hide:
   - footer
 ---
 
-![Klassenleitung](/img/02_Schritt_für_Schritt/klassenleitung.png){ .img-head }
+![Klassenleitung](../../img/02_Schritt_für_Schritt/klassenleitung.png){ .img-head }
 <br><br>
 
 !!! note ""

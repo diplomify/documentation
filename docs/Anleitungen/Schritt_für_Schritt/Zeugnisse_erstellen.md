@@ -3,7 +3,7 @@ hide:
   - footer
 ---
 
-![Zeugnisdruck](/img/02_Schritt_für_Schritt/zeugnisdruck.png){ .img-head }
+![Zeugnisdruck](../../img/02_Schritt_für_Schritt/zeugnisdruck.png){ .img-head }
 <br><br>
 ## Variante 1: Zeugnisse klassenweise drucken
 **Wechsle dazu in die Klassenübersicht**
@@ -30,7 +30,7 @@ Diese Datei kannst du drucken oder herunterladen.
 <br>
 !!! warning ""
     **Was kann schiefgehen?**
-    ![inactive](/img/09_Misc/report_inactive.png){ align=right }
+    ![inactive](../../img/09_Misc/report_inactive.png){ align=right }
     <br> <br> <br>
     Zeugnisse können erst erstellt werden, wenn eine Zeugniskonferenz sattgefunden hat.<br>
     In der Konferenz wird der Versetzungsstatus festgelegt, erst danach kann ein Zeugnis erstellt werden.

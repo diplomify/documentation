@@ -3,7 +3,7 @@ hide:
   - footer
 ---
 
-![Zeugnisdaten](/img/02_Schritt_für_Schritt/zeugnisdaten.png){ .img-head }
+![Zeugnisdaten](../../img/02_Schritt_für_Schritt/zeugnisdaten.png){ .img-head }
 <br><br>
 !!! note ""
     **Warum muss ich das überhaupt machen?**<br>
