@@ -3,7 +3,7 @@ hide:
   - footer
 ---
 
-# Die Admin-Übersicht
+# Die Schüler*innenverwaltung
 
 ![Image title](/img/01_Administration/student_list.png){ .img-head }
 

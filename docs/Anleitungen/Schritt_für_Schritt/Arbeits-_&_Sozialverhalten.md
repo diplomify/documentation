@@ -14,7 +14,7 @@ Du kannst natürlich immer auch eigene Texte eintragen.<br>
 
 ### Komfort-Kommentar
 Einige Merkmale von Schüler/innen werden automatisch aufgegriffen und in Form von **Quick-Floskeln** angeboten <br>
-Dazu gehören zum Beispiel die **Versetzungsgefährdung**, zugeordnete **Dienste** oder hinterlegte **Förderbedarfe**. [:octicons-eye-16:](/img/02_Schritt_für_Schritt/av_sv_comment_helper.png) <br>
+Dazu gehören zum Beispiel die **Versetzungsgefährdung**, zugeordnete **Dienste** oder hinterlegte **Förderbedarfe**. [:octicons-eye-16:](../../img/02_Schritt_für_Schritt/av_sv_comment_helper.png) <br>
 Ein Klick auf "hinzufügen", schreibt die entsprechende Floskel in das Bemerkungsfeld.
 <br>
 

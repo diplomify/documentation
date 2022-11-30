@@ -52,7 +52,6 @@ nav:
       - 'Dich selbst als Klassenleitung eintragen': 'Anleitungen/Schritt_für_Schritt/Dich_selbst_als_Klassenleitung_eintragen.md'
       - 'Fehltage': 'Anleitungen/Schritt_für_Schritt/Fehltage.md'
       - 'Kolleg*innen erinnern': 'Anleitungen/Schritt_für_Schritt/Kolleg*innen_erinnern.md'
-      - 'Zeugniskonferenz**': 'Anleitungen/Schritt_für_Schritt/Zeugniskonferenz_durchführen.md'
       - 'Zeugnisdaten ändern': 'Anleitungen/Schritt_für_Schritt/Zeugnisdaten_ändern.md'
       - 'Zeugnisse erstellen': 'Anleitungen/Schritt_für_Schritt/Zeugnisse_erstellen.md'
       - 'Zeugnisse zum Druck freigeben': 'Anleitungen/Schritt_für_Schritt/Zeugnisse_zum_Druck_freigeben.md'
@@ -62,3 +61,9 @@ nav:
   
 
 
+  - 'Administration':
+    - 'Grundlegende ToDos': 'Anleitungen/Administration/Inbetriebnahme.md'
+    - 'Admin-Startseite': 'Anleitungen/Administration/Übersicht.md'
+    - 'Fächer & Fachgruppen verwalten': 'Anleitungen/Administration/Fächer_anlegen.md'
+    - 'Schuljahre anlegen': 'Anleitungen/Administration/Schuljahre_anlegen.md'   
+    - 'Termine anlegen': 'Anleitungen/Administration/Termine_anlegen.md'     

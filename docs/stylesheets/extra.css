@@ -156,6 +156,20 @@ background-color: #F8F9FA;
     margin-right: auto;
 }
 
+.admonition.intralink {
+    display: flex;
+    margin: 2rem 0 3rem 0;
+    background-color: white;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px !important;
+    -webkit-box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px !important;
+}
+
+.admonition.intralink >* {
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .md-typeset .admonition, .md-typeset details {
     /* box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;
     -webkit-box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px; */
