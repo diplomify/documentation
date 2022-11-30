@@ -2,7 +2,7 @@
 hide:
   - footer
 ---
-![Image title](./../../img/01_Administration/neues_schuljahr.png){ .img-head }
+![Image title](/../../img/01_Administration/neues_schuljahr.png){ .img-head }
 
 !!! note ""
     Spätestens zu Beginn der Zeugnisphase im ersten Schulhalbjahr muss ein neues Schuljahr angelegt werden. <br>
