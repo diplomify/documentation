@@ -56,7 +56,7 @@ hide:
 
     [weiterlesen...](Anleitungen/Arbeitsbereiche/Bewertungsuebersicht.md) -->
 
-
+<!--
 !!! box ""
     <img class="off-glb img-small-left" src="./img/assets/icons/zauberstab.png" align="left">
     ### Komfortfunktionen
