@@ -29,4 +29,4 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## deploy 
 
-mkdocs gh-deploy
+    mkdocs gh-deploy

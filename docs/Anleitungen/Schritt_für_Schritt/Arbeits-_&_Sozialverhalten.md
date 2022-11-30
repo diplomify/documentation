@@ -22,6 +22,6 @@ Ein Klick auf "hinzufügen", schreibt die entsprechende Floskel in das Bemerkung
 
 <hr>
 
-!!! danger ""
-    :exclamation: Die Texteintragungen werden nicht automatisch gespeichert.
+!!! tip ""
+    :exclamation: Die Texteintragungen werden automatisch gespeichert.
 

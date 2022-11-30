@@ -19,7 +19,7 @@ hide:
     **nur bei Änderungen**<br>
 
     :material-check: Lehrkräfte importieren<br>
-    :material-check: Fächer anlegen<br>
+    :material-check: [Fächer anlegen](../Administration/Fächer_anlegen.md)<br>
 
 !!! box ""
     **einmalig bei  Erstinbetriebnahme**<br>
