@@ -56,19 +56,20 @@ hide:
 
     [weiterlesen...](Anleitungen/Arbeitsbereiche/Bewertungsuebersicht.md) -->
 
-<!--
-!!! box ""
+
+<!-- !!! box ""
     <img class="off-glb img-small-left" src="./img/assets/icons/zauberstab.png" align="left">
     ### Komfortfunktionen
 
     Diplomify unterstützt dich bei der Arbeit. Lerne hier, wie genau.
 
     [weiterlesen...](quick_start.md)
----
+--- -->
+
 !!! box_alert ""
     <img class="off-glb img-small-left" src="./img/assets/icons/schlussel.png" align="left">
     ### Administration
 
     Diplomify unterstützt dich bei der Arbeit. Lerne hier, wie genau.
 
-    [weiterlesen...](Anleitungen/Administration/Übersicht.md) -->
+    [weiterlesen...](Anleitungen/Administration/Übersicht.md)
