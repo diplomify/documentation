@@ -70,8 +70,8 @@ Damit kannst du schnell Eingaben für alle Schüler/innen vornehmen. <br>
 Wenn du dir die Noten vorlesen lässt, kannst du leichter deine Eingaben kontrollieren.
 (Klicke dazu auf das :fontawesome-solid-gear: am Ende der Notenspalte deines Faches.)
 
-!!! intralink ""
-    Mehr Informationen zur Bewertungstabelle findest du bei den [**Arbeitsbereichen**](../Arbeitsbereiche/Bewertungsuebersicht.md)
+<!-- !!! intralink ""
+    Mehr Informationen zur Bewertungstabelle findest du bei den [**Arbeitsbereichen**](../Arbeitsbereiche/Bewertungsuebersicht.md) -->
 <br>
 
 ## 2. Einzelfachansicht
@@ -93,8 +93,8 @@ Zu der Einzelfachansicht gelangst du, indem du auf den Fächernamen in der Bewer
 Falls ein Notensprung vorliegt, muss eine Begründung eingegeben werden. Du erkennst die Schüler/innen mit Notensprung an dem gelben Kreis [:octicons-eye-16:](../../img/09_Misc/indikator_fehlende_begründung.png) hinter dem Namen.
 Sobald eine Notenbegründung eingegeben wurde, wird ein grünes Kästchen [:octicons-eye-16:](../../img/09_Misc/indikator_vorhandene_begründung.png) angezeigt.
 
-!!! intralink ""
-    Mehr Informationen zur Einzelfachansicht findest du bei den [**Arbeitsbereichen**](../Arbeitsbereiche/Bewertungsuebersicht.md)
+<!-- !!! intralink ""
+    Mehr Informationen zur Einzelfachansicht findest du bei den [**Arbeitsbereichen**](../Arbeitsbereiche/Bewertungsuebersicht.md) -->
 <br>
 
 ## 3. Schüleransicht
@@ -114,6 +114,6 @@ Das aktuelle schuljahr wird dirket unter den Stammdaten des/der Schüler/in ange
 1. Klicke die gewünschte Note an und trage deine Note ein.
 2. Beende die Eingabe mit ++enter++
 
-!!! intralink ""
-    Mehr Informationen zur Schüleransicht findest du bei den [**Arbeitsbereichen**](../Arbeitsbereiche/Schüler*innen Stammdaten.md)
+<!-- !!! intralink ""
+    Mehr Informationen zur Schüleransicht findest du bei den [**Arbeitsbereichen**](../Arbeitsbereiche/Schüler*innen Stammdaten.md) -->
 
