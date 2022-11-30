@@ -26,3 +26,7 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 ## Link to Heading IDs
 
     [Heading IDs](#headingid)
+
+## deploy 
+
+mkdocs gh-deploy
