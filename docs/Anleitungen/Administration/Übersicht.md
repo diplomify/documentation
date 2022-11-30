@@ -5,7 +5,7 @@ hide:
 
 # Die Admin-Übersicht
 
-![Image title](/img/01_Administration/overview.png){ .img-head }
+![Image title](../../img/01_Administration/overview.png){ .img-head }
 
 
 ##Mögliche Aktionen

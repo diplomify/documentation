@@ -23,5 +23,5 @@ hide:
 Es müssen immer direkt beide Halbjahre angelegt werden. <br>
 
 !!! intralink ""
-    Nach dem Anlegen der Schuljahre können die aktuellen Schüler*innen und Klassen importiert werden: [**Schüler*innen verwalten**](../Administration/student_administration.md) <br><br>
+    Nach dem Anlegen der Schuljahre können die aktuellen Schüler*innen und Klassen importiert werden<!-- : [**Schüler*innen verwalten**](../Administration/student_administration.md) --> <br><br>
     Außerdem können die Halbjahrestermine (Zeugnisausgabedaten und Konferenzdaten) hinterlegt werden: [**Schuljahresdaten angeben**](../Administration/Termine_anlegen.md)
