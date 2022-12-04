@@ -66,4 +66,5 @@ nav:
     - 'Admin-Startseite': 'Anleitungen/Administration/Übersicht.md'
     - 'Fächer & Fachgruppen verwalten': 'Anleitungen/Administration/Fächer_anlegen.md'
     - 'Schuljahre anlegen': 'Anleitungen/Administration/Schuljahre_anlegen.md'   
-    - 'Termine anlegen': 'Anleitungen/Administration/Termine_anlegen.md'     
+    - 'Termine anlegen': 'Anleitungen/Administration/Termine_anlegen.md' 
+    - 'Import': 'Anleitungen/Administration/Import.md'    

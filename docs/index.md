@@ -66,7 +66,7 @@ hide:
     [weiterlesen...](quick_start.md)
 --- -->
 
-!!! box_alert ""
+!!! box ""
     <img class="off-glb img-small-left" src="./img/assets/icons/schlussel.png" align="left">
     ### Administration
 
