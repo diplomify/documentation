@@ -39,7 +39,7 @@ hide:
 <p style="text-align: center"><h4>Alle Anleitungen</h4></p>
 
 !!! box ""
-    <img class="off-glb img-small-left" src="./img/assets/icons/route.png" align="left">
+    <!-- <img class="off-glb img-small-left" src="./img/assets/icons/route.png" align="left"> -->
     ### Schritt für Schritt Anleitungen
 
     Einfache Erklärungen typischer Aufgaben - Schritt für Schritt.
@@ -67,7 +67,7 @@ hide:
 --- -->
 
 !!! box ""
-    <img class="off-glb img-small-left" src="./img/assets/icons/schlussel.png" align="left">
+   <!--  <img class="off-glb img-small-left" src="./img/assets/icons/schlussel.png" align="left"> -->
     ### Administration
 
     Diplomify unterstützt dich bei der Arbeit. Lerne hier, wie genau.
