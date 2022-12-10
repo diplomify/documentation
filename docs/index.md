@@ -67,7 +67,9 @@ hide:
 --- -->
 
 !!! box ""
-   <!--  <img class="off-glb img-small-left" src="./img/assets/icons/schlussel.png" align="left"> -->
+   
+    <!--  <img class="off-glb img-small-left" src="./img/assets/icons/schlussel.png" align="left"> -->
+
     ### Administration
 
     Diplomify unterstützt dich bei der Arbeit. Lerne hier, wie genau.
