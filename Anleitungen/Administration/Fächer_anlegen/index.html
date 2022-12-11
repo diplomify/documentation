@@ -204,6 +204,11 @@
         Zeugnisse zuordnen
       </a>
 </li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Schritt_f%C3%BCr_Schritt/Zeugnisvorschau/">
+        Zeugnisvorschau
+      </a>
+</li>
 </ul>
 </nav>
 </li>
@@ -295,6 +300,16 @@
         Import
       </a>
 </li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Sch%C3%BCler_und_Klassen_verwalten/">
+        Schüler und Klassen verwalten
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Backup/">
+        Backups
+      </a>
+</li>
 </ul>
 </nav>
 </li>
@@ -349,7 +364,8 @@ Zudem müssen allen regulären Kanonfächern Variablen zugeordnet werden, damit 
 <li>Wenn also bei "Name" der Fächername vergeben wird (wird so auch auf dem Zeugnis angezeigt), kann gleich die entsprechende Variable ausgewählt werden. (Variablen können beliebig benannt werden, müssen aber ihre Entsprechung in der Zeugnisvorlage haben. Bei individuellen Variablen muss daher das Template geändert werden.)</li>
 <li>Handelt es sich um ein Sonderfach (z.B. WPK, Profil, Fach mit ausgewiesenem Anforderungsniveau, Fach für Sprachfeststellungsprüfung) muss die entsprechende Fachgruppe gewählt werden.
 <br/>
-Bei Fächern mit abweichendem Anforderungsniveau wird das gewählte Niveau auf dem Zeugnis ausgewiesen. (Erhält ein Schüler eine Note in Mahematik Fachgruppe "Niveaustufe G" erhält Mathematik auf dem Zeugnis einen entsprechenden Vermerk.) Niveaustufen sind derzeit für die Fächer Mathematik und Englisch möglich.</li>
+Bei Fächern mit abweichendem Anforderungsniveau wird das gewählte Niveau auf dem Zeugnis ausgewiesen. (Erhält ein Schüler eine Note in Mahematik Fachgruppe "Niveaustufe G" erhält Mathematik auf dem Zeugnis einen entsprechenden Vermerk.) Niveaustufen sind derzeit für die Fächer Mathematik und Englisch möglich.<br/>
+<strong>Für den Variablennamen bitte folgendes Schema anwenden 'fachgruppenkürzel'_'fach'. (z.B. wpk_erdkunde)</strong></li>
 <li>Im letzten Feld <strong>kann</strong> die Priorität des Faches innerhalb der Fachgruppe festgelegt werden. Das betrifft vor allem WPK und Profile. Soll ein Fach auf dem Zeugnis immer auf Platz 1 bei den WPK stehen, kann hier Priorität 1 gewählt werden. Alle anderen WPK erhalten eine höhere Ziffer und sind demnach untergeordnet. (In den meisten Fällen kann hier der Standardwert "0" belassen werden.)</li>
 <li>Durch "Speichern" wird das Fach angelegt.</li>
 </ol>
@@ -358,6 +374,9 @@ Bei Fächern mit abweichendem Anforderungsniveau wird das gewählte Niveau auf d
 </div>
 <p><br/></p>
 <h2 id="fachgruppen-verwalten">Fachgruppen verwalten</h2>
+<div class="admonition danger">
+<p>Standardverwendung bitte in Fächer verwalten (Abschnitt 5) nachlesen.</p>
+</div>
 <div class="admonition note">
 <p>Fachgruppen ermöglichen das Kategorisieren und automatische Verarbeiten von Fächern in den Zeugnisvorlagen. 
 Durch die Priorisierung der Fächer in einer Fachgruppe ist es möglich, durch die Fächer zu iterieren und gleichzeitig eine festgelegte Reihenfolge beizubehalten. Dadurch sind sehr effiziente Zeugnistemplates möglich.<br/></p>

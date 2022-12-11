@@ -130,15 +130,12 @@ background-color: #F8F9FA;
 }
 
 /* ------------- Tips ------------- */
+
 .admonition.note {
-   /*  background-color: #FCF8FD;
-    border: 1px solid #B53AD2 !important; */
     border-left: 7px solid #B53AD2 !important;
 }
 
 .admonition.tip {
-   /*  background-color: #F4FFF8;
-    border: 1px solid #00C849 !important; */
     border-left: 7px solid #00C849 !important;
 }
 
@@ -149,14 +146,10 @@ background-color: #F8F9FA;
 }
 
 .admonition.warning {
-   /*  background-color: #FFFDF7;
-    border: 1px solid #FFCE4C !important; */
     border-left: 7px solid #FFCE4C !important;
 }
 
 .admonition.danger {
-/*     background-color: #FFF8F8;
-    border: 1px solid #FF4A4B !important; */
     border: 1px solid #FF4A4B !important;
     border-left: 7px solid #FF4A4B !important;
     background-color: #FFF7F7;
@@ -296,6 +289,13 @@ background-color: #F8F9FA;
     margin: 1rem 2rem 1rem 1rem !important;
 }
 
+.img-small-inline {
+    width: 25px !important;
+    border: none !important;
+    box-shadow: none !important;
+    padding-top: 0.2rem;
+}
+
 .img-small-right {
     width: 100px !important;
     border: none !important;
@@ -380,4 +380,16 @@ table {
 
 .center {
     text-align: center;
+}
+
+.padding_small {
+    padding: .5rem;
+}
+
+.padding_medium{
+    padding: 1rem;
+}
+
+.padding_large {
+    padding: 2rem;
 }

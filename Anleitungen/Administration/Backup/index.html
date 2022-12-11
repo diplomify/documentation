@@ -7,7 +7,7 @@
 <meta content="width=device-width,initial-scale=1" name="viewport"/>
 <link href="../../../img/assets/logo_medal.svg" rel="icon"/>
 <meta content="mkdocs-1.3.0, mkdocs-material-8.3.6" name="generator"/>
-<title>Backup - Diplomify - Academy</title>
+<title>Backups - Diplomify - Academy</title>
 <link href="../../../assets/stylesheets/main.4a0965b7.min.css" rel="stylesheet"/>
 <link href="../../../assets/stylesheets/palette.cbb835fc.min.css" rel="stylesheet"/>
 <link href="../../../stylesheets/extra.css" rel="stylesheet"/>
@@ -18,6 +18,9 @@
 <input autocomplete="off" class="md-toggle" data-md-toggle="search" id="__search" type="checkbox"/>
 <label class="md-overlay" for="__drawer"></label>
 <div data-md-component="skip">
+<a class="md-skip" href="#backup-anlegen">
+          Zum Inhalt
+        </a>
 </div>
 <div data-md-component="announce">
 </div>
@@ -39,7 +42,7 @@
 <div class="md-header__topic" data-md-component="header-topic">
 <span class="md-ellipsis">
             
-              Backup
+              Backups
             
           </span>
 </div>
@@ -92,7 +95,7 @@
       </a>
 </li>
 <li class="md-tabs__item">
-<a class="md-tabs__link" href="../Inbetriebnahme/">
+<a class="md-tabs__link md-tabs__link--active" href="../Inbetriebnahme/">
         Administration
       </a>
 </li>
@@ -201,6 +204,11 @@
         Zeugnisse zuordnen
       </a>
 </li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Schritt_f%C3%BCr_Schritt/Zeugnisvorschau/">
+        Zeugnisvorschau
+      </a>
+</li>
 </ul>
 </nav>
 </li>
@@ -227,8 +235,8 @@
 </ul>
 </nav>
 </li>
-<li class="md-nav__item md-nav__item--nested">
-<input checked="" class="md-nav__toggle md-toggle md-toggle--indeterminate" data-md-toggle="__nav_3" id="__nav_3" type="checkbox"/>
+<li class="md-nav__item md-nav__item--active md-nav__item--nested">
+<input checked="" class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" id="__nav_3" type="checkbox"/>
 <label class="md-nav__link" for="__nav_3">
           Administration
           <span class="md-nav__icon md-icon"></span>
@@ -269,6 +277,39 @@
         Import
       </a>
 </li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Sch%C3%BCler_und_Klassen_verwalten/">
+        Schüler und Klassen verwalten
+      </a>
+</li>
+<li class="md-nav__item md-nav__item--active">
+<input class="md-nav__toggle md-toggle" data-md-toggle="toc" id="__toc" type="checkbox"/>
+<label class="md-nav__link md-nav__link--active" for="__toc">
+          Backups
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<a class="md-nav__link md-nav__link--active" href="./">
+        Backups
+      </a>
+<nav aria-label="Inhaltsverzeichnis" class="md-nav md-nav--secondary">
+<label class="md-nav__title" for="__toc">
+<span class="md-nav__icon md-icon"></span>
+      Inhaltsverzeichnis
+    </label>
+<ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#backup-anlegen">
+    Backup anlegen
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#backup-wiederherstellen">
+    Backup wiederherstellen
+  </a>
+</li>
+</ul>
+</nav>
+</li>
 </ul>
 </nav>
 </li>
@@ -281,13 +322,72 @@
 <div class="md-sidebar__scrollwrap">
 <div class="md-sidebar__inner">
 <nav aria-label="Inhaltsverzeichnis" class="md-nav md-nav--secondary">
+<label class="md-nav__title" for="__toc">
+<span class="md-nav__icon md-icon"></span>
+      Inhaltsverzeichnis
+    </label>
+<ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#backup-anlegen">
+    Backup anlegen
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#backup-wiederherstellen">
+    Backup wiederherstellen
+  </a>
+</li>
+</ul>
 </nav>
 </div>
 </div>
 </div>
 <div class="md-content" data-md-component="content">
 <article class="md-content__inner md-typeset">
-<h1>Backup</h1>
+<h1>Backups</h1>
+<p><a class="glightbox" href="../../../img/01_Administration/backup.png"><img alt="Image title" class="img-head" src="../../../img/01_Administration/backup.png"/></a></p>
+<div class="admonition note">
+<p>Backups sollten regelmäßig und vor Eingriffen in die Stammdatenverwaltung vorgeommen werden.<br/>
+Also etwa vor Importen oder Veränderungen an Klassen, Schülern, Fächern, Unterrichten oder Lehrern. </p>
+</div>
+<div class="admonition success">
+<p>Grundsätzlich arbeitet Diplomify mit <strong>zwei</strong> verschiedenen Backup-Arten:</p>
+<ol>
+<li>Das Server-Backup: Dabei wird täglich das gesamte System gesichert.<br/>
+<strong>Eine Wiederherstellung ist nur mit Zugriff auf den Server möglich.</strong> Wenn sie einen solchen Zugriff nicht besitzen, kontaktieren sie bitte ihren Server-Administrator.<br/>
+Sollten Sie Diplomify nicht selbst hosten, schreiben Sie bitte an <strong><a href="mailto:info@diplomify.de">unseren Support</a></strong>.</li>
+<li>Das selbst erstellte Backup: Dabei wird ebenfalls das gesamte System gesichert.<br/>
+Die geschieht jedoch <strong>nur</strong>, wenn es direkt ausgelöst wird.</li>
+</ol>
+</div>
+<p><br/></p>
+<h3 id="backup-anlegen">Backup anlegen</h3>
+<p><strong>Wechsle dazu in Konfiguration/Backups</strong></p>
+<ol>
+<li>Wähle Backup erstellen.</li>
+<li>Bestätige die Sicherheitsabfrage</li>
+</ol>
+<p>Anschließend wird das Backup erstellt. Dies dauert etwa 1 Minute. Ggf. muss die Seute neu geladen werden.<br/>
+Ist das Backup erstellt, erscheint es im Bereich "Backups"<br/><br/>
+<a class="glightbox" href="../../../img/01_Administration/backup_done.png"><img alt="Image title" class="img-head" src="../../../img/01_Administration/backup_done.png"/></a></p>
+<p><br/></p>
+<h3 id="backup-wiederherstellen">Backup wiederherstellen</h3>
+<p><strong>Wechsle dazu in Konfiguration/Backups</strong></p>
+<p><a class="glightbox" href="../../../img/01_Administration/backup_restore.png"><img alt="Image title" class="img-head" src="../../../img/01_Administration/backup_restore.png"/></a></p>
+<ol>
+<li>Wähle das gweünschte Backup aus der Liste und drücke den "Restore Button" </li>
+<li>Bestätige die Sicherheitsinformation</li>
+</ol>
+<p>Das Backup wir nun wiederhergestellt.Das dauert etwa 2 Minuten. Ggf. muss die Seute neu geladen werden. <br/>
+Im Anschluss wird es im Bereich "Wiederherstellungen" angezeigt.</p>
+<div class="admonition danger">
+<p>Während des Zurücksetzens wird Diplomify temporär nicht für normale Benutzbar verfügbar sein (Wartungsmodus).<br/> 
+Sie können diesen Vorgang nicht rückgängig machen und sollten während des Prozesses unter keinen Umständen weitere Änderungen am Datensatz vornehmen.</p>
+</div>
+<div class="admonition danger">
+<p>Werden zwei Backups angelegt und anschließend das zuerst angelegte Backup wiederhergstellt, ist das andere Backup nicht mehr verfügbar.<br/>
+Grund: Es wurde ein Systemstand wiederhergestellt, an dem das andere Backup noch nicht vorhanden war.</p>
+</div>
 </article>
 </div>
 </div>
@@ -297,6 +397,21 @@
           </a>
 </main>
 <footer class="md-footer">
+<nav aria-label="Footer" class="md-footer__inner md-grid" hidden="">
+<a aria-label="Zurück: Schüler und Klassen verwalten" class="md-footer__link md-footer__link--prev" href="../Sch%C3%BCler_und_Klassen_verwalten/" rel="prev">
+<div class="md-footer__button md-icon">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"></path></svg>
+</div>
+<div class="md-footer__title">
+<div class="md-ellipsis">
+<span class="md-footer__direction">
+                Zurück
+              </span>
+              Schüler und Klassen verwalten
+            </div>
+</div>
+</a>
+</nav>
 <div class="md-footer-meta md-typeset">
 <div class="md-footer-meta__inner md-grid">
 <div class="md-copyright">
