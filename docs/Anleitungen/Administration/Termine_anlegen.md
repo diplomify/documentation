@@ -21,3 +21,7 @@ hide:
 4. Wähle jene Klassen aus, denen die Termine zugeordnet werden sollen.
 5. Speichern. <br>
 6. (Wiederhole den Vorgang, bis alle Klassen einen Zeugnisausgabetermin und einen Konferenztermin haben.)
+
+!!! note ""
+    Die Variablen in den Floskeln wie {conferenceDate} werden erst automatisch ersetzt, wenn die Zeugnisdaten zuvor angelegt wurden. <br>
+    Bereits "eingefügte" Floskeln müssen dann ersetzt werden.

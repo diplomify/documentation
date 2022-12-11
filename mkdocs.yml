@@ -56,6 +56,7 @@ nav:
       - 'Zeugnisse erstellen': 'Anleitungen/Schritt_für_Schritt/Zeugnisse_erstellen.md'
       - 'Zeugnisse zum Druck freigeben': 'Anleitungen/Schritt_für_Schritt/Zeugnisse_zum_Druck_freigeben.md'
       - 'Zeugnisse zuordnen': 'Anleitungen/Schritt_für_Schritt/Zeugnisse_zuordnen.md'
+      - 'Zeugnisvorschau': 'Anleitungen/Schritt_für_Schritt/Zeugnisvorschau.md'
     - 'Mein Unterricht':
       - 'Klassen & Kurse anlegen': 'Anleitungen/Schritt_für_Schritt/Klassen_und_Kurse_anlegen.md'     
   
@@ -68,3 +69,5 @@ nav:
     - 'Schuljahre anlegen': 'Anleitungen/Administration/Schuljahre_anlegen.md'   
     - 'Termine anlegen': 'Anleitungen/Administration/Termine_anlegen.md' 
     - 'Import': 'Anleitungen/Administration/Import.md'    
+    - 'Schüler und Klassen verwalten': 'Anleitungen/Administration/Schüler_und_Klassen_verwalten.md' 
+    - 'Backups': 'Anleitungen/Administration/Backup.md' 

@@ -24,7 +24,8 @@ hide:
 4. Wenn also bei "Name" der Fächername vergeben wird (wird so auch auf dem Zeugnis angezeigt), kann gleich die entsprechende Variable ausgewählt werden. (Variablen können beliebig benannt werden, müssen aber ihre Entsprechung in der Zeugnisvorlage haben. Bei individuellen Variablen muss daher das Template geändert werden.)
 5. Handelt es sich um ein Sonderfach (z.B. WPK, Profil, Fach mit ausgewiesenem Anforderungsniveau, Fach für Sprachfeststellungsprüfung) muss die entsprechende Fachgruppe gewählt werden.
 <br>
-Bei Fächern mit abweichendem Anforderungsniveau wird das gewählte Niveau auf dem Zeugnis ausgewiesen. (Erhält ein Schüler eine Note in Mahematik Fachgruppe "Niveaustufe G" erhält Mathematik auf dem Zeugnis einen entsprechenden Vermerk.) Niveaustufen sind derzeit für die Fächer Mathematik und Englisch möglich.
+Bei Fächern mit abweichendem Anforderungsniveau wird das gewählte Niveau auf dem Zeugnis ausgewiesen. (Erhält ein Schüler eine Note in Mahematik Fachgruppe "Niveaustufe G" erhält Mathematik auf dem Zeugnis einen entsprechenden Vermerk.) Niveaustufen sind derzeit für die Fächer Mathematik und Englisch möglich.<br>
+**Für den Variablennamen bitte folgendes Schema anwenden 'fachgruppenkürzel'_'fach'. (z.B. wpk_erdkunde)**
 6. Im letzten Feld **kann** die Priorität des Faches innerhalb der Fachgruppe festgelegt werden. Das betrifft vor allem WPK und Profile. Soll ein Fach auf dem Zeugnis immer auf Platz 1 bei den WPK stehen, kann hier Priorität 1 gewählt werden. Alle anderen WPK erhalten eine höhere Ziffer und sind demnach untergeordnet. (In den meisten Fällen kann hier der Standardwert "0" belassen werden.)
 7. Durch "Speichern" wird das Fach angelegt.
 
@@ -34,6 +35,10 @@ Bei Fächern mit abweichendem Anforderungsniveau wird das gewählte Niveau auf d
 
 
 ## Fachgruppen verwalten
+
+!!! danger ""
+    Standardverwendung bitte in Fächer verwalten (Abschnitt 5) nachlesen.
+
 
 !!! note ""
     Fachgruppen ermöglichen das Kategorisieren und automatische Verarbeiten von Fächern in den Zeugnisvorlagen. 

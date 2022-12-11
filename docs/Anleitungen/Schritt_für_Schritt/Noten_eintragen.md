@@ -90,8 +90,9 @@ Zu der Einzelfachansicht gelangst du, indem du auf den Fächernamen in der Bewer
 
 ### 2.2 Begründungen für Notensprünge
 
-Falls ein Notensprung vorliegt, muss eine Begründung eingegeben werden. Du erkennst die Schüler/innen mit Notensprung an dem gelben Kreis [:octicons-eye-16:](../../img/09_Misc/indikator_fehlende_begründung.png) hinter dem Namen.
-Sobald eine Notenbegründung eingegeben wurde, wird ein grünes Kästchen [:octicons-eye-16:](../../img/09_Misc/indikator_vorhandene_begründung.png) angezeigt.
+Falls ein Notensprung vorliegt, muss eine Begründung eingegeben werden. Du erkennst die Schüler/innen mit Notensprung an dem roten Punkt hinter dem Namen.
+Sobald eine Notenbegründung eingegeben wurde, wird der Punkt grün.<br>
+Achtung: Diplomify überprüft nicht die Qualität der Eingaben. Sobald eine beliebige Zeichenfolge eingetragen und gespeichert wurde, schaltet der Indikator auf grün.
 
 <!-- !!! intralink ""
     Mehr Informationen zur Einzelfachansicht findest du bei den [**Arbeitsbereichen**](../Arbeitsbereiche/Bewertungsuebersicht.md) -->
@@ -99,7 +100,7 @@ Sobald eine Notenbegründung eingegeben wurde, wird ein grünes Kästchen [:octi
 
 ## 3. Schüleransicht
 
-![Schüleransicht](../../img/02_Schritt_für_Schritt/noten/schüleransicht.png){ .img-norm } 
+![Schüleransicht](../../../img/02_Schritt_für_Schritt/noten/schüleransicht.png){ .img-norm } 
 
 Zur Schüleransicht gelangst du durch einen Klick auf den Schülernamen in der Notentabelle.
 
