@@ -18,7 +18,7 @@
 <input autocomplete="off" class="md-toggle" data-md-toggle="search" id="__search" type="checkbox"/>
 <label class="md-overlay" for="__drawer"></label>
 <div data-md-component="skip">
-<a class="md-skip" href="#schulerinnen-import">
+<a class="md-skip" href="#importmoglichkeiten">
           Zum Inhalt
         </a>
 </div>
@@ -288,24 +288,42 @@
     </label>
 <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
 <li class="md-nav__item">
-<a class="md-nav__link" href="#schulerinnen-import">
-    Schüler*innen - Import
+<a class="md-nav__link" href="#importmoglichkeiten">
+    Importmöglichkeiten
+  </a>
+<nav aria-label="Importmöglichkeiten" class="md-nav">
+<ul class="md-nav__list">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#schulerinnen-import-t1">
+    Schüler*innen - Import (T1)
   </a>
 </li>
 <li class="md-nav__item">
-<a class="md-nav__link" href="#lehrerinnen-import">
-    Lehrer*innen - Import
+<a class="md-nav__link" href="#lehrerinnen-import-t2">
+    Lehrer*innen - Import (T2)
+  </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#csv-import">
+    CSV-Import
+  </a>
+<nav aria-label="CSV-Import" class="md-nav">
+<ul class="md-nav__list">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#csv-schulerimport-vorbereitung">
+    CSV-Schülerimport (Vorbereitung)
   </a>
 </li>
 <li class="md-nav__item">
-<a class="md-nav__link" href="#csv-import-aus-danis">
-    CSV-Import aus DaNiS
+<a class="md-nav__link" href="#csv-lehrerimport-vorbereitung">
+    CSV-Lehrerimport (Vorbereitung)
   </a>
 </li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="#csv-import-aus-iserv">
-    CSV-Import aus IServ
-  </a>
+</ul>
+</nav>
 </li>
 </ul>
 </nav>
@@ -338,24 +356,42 @@
     </label>
 <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
 <li class="md-nav__item">
-<a class="md-nav__link" href="#schulerinnen-import">
-    Schüler*innen - Import
+<a class="md-nav__link" href="#importmoglichkeiten">
+    Importmöglichkeiten
+  </a>
+<nav aria-label="Importmöglichkeiten" class="md-nav">
+<ul class="md-nav__list">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#schulerinnen-import-t1">
+    Schüler*innen - Import (T1)
   </a>
 </li>
 <li class="md-nav__item">
-<a class="md-nav__link" href="#lehrerinnen-import">
-    Lehrer*innen - Import
+<a class="md-nav__link" href="#lehrerinnen-import-t2">
+    Lehrer*innen - Import (T2)
+  </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#csv-import">
+    CSV-Import
+  </a>
+<nav aria-label="CSV-Import" class="md-nav">
+<ul class="md-nav__list">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#csv-schulerimport-vorbereitung">
+    CSV-Schülerimport (Vorbereitung)
   </a>
 </li>
 <li class="md-nav__item">
-<a class="md-nav__link" href="#csv-import-aus-danis">
-    CSV-Import aus DaNiS
+<a class="md-nav__link" href="#csv-lehrerimport-vorbereitung">
+    CSV-Lehrerimport (Vorbereitung)
   </a>
 </li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="#csv-import-aus-iserv">
-    CSV-Import aus IServ
-  </a>
+</ul>
+</nav>
 </li>
 </ul>
 </nav>
@@ -365,7 +401,14 @@
 <div class="md-content" data-md-component="content">
 <article class="md-content__inner md-typeset">
 <h1>Import</h1>
-<h3 id="schulerinnen-import">Schüler*innen - Import</h3>
+<h2 id="importmoglichkeiten">Importmöglichkeiten</h2>
+<p>Aktuell stehen zwei Möglichkeiten zur Verfügung, um Diplomify mit den nötigen Schüler- Lehrer - und Unterrichtsdaten zu versorgen: <br/></p>
+<ul>
+<li>CSV-Import<br/></li>
+<li>WebUntis-Import<br/></li>
+</ul>
+<p>Welche Daten jeweils importiert werden können, zeigen die Tabellen T1 &amp; T2. <br/></p>
+<h3 id="schulerinnen-import-t1">Schüler*innen - Import (T1)</h3>
 <table>
 <thead>
 <tr>
@@ -422,7 +465,7 @@
 </tr>
 </tbody>
 </table>
-<h3 id="lehrerinnen-import">Lehrer*innen - Import</h3>
+<h3 id="lehrerinnen-import-t2">Lehrer*innen - Import (T2)</h3>
 <table>
 <thead>
 <tr>
@@ -469,23 +512,61 @@
 </tr>
 </tbody>
 </table>
-<h3 id="csv-import-aus-danis">CSV-Import aus DaNiS</h3>
-<pre><code>- SchuelerNachname
-- SchuelerRufname
-- SchuelerGeburtsdatum
-- SchuelerGeburtsort
-- SchuelerAufnahmedatum
-- SchuelerGeschlecht
-- GruppeBezeichnung
-- GruppeId
-- SchuelerId
-</code></pre>
-<h3 id="csv-import-aus-iserv">CSV-Import aus IServ</h3>
-<pre><code>- Nachname
-- Vorname
-- Account
-- Import-ID
-</code></pre>
+<p><br/></p>
+<h2 id="csv-import">CSV-Import</h2>
+<p>Die Quellen für die CSV-Dateien sind sehr schulindividuell, in der Regel können die Daten aber aus dem verwendeten Schulverwaltungsprogramm exportiert werden. <br/>
+Beim CSV-Import werden SuS automatisch ihren Klassen zugeordent. <br/>
+<strong>Eine automatische Erstellung und Zuordnung zu Kursen (z.B. WPK oder Profile) erfolgt nicht.</strong> <br/>
+Diese können aber leicht von den entsprechenden KuK angelegt werden.
+<br/></p>
+<h3 id="csv-schulerimport-vorbereitung">CSV-Schülerimport (Vorbereitung)</h3>
+<p>Die CSV-Datei für den Schülerimport <strong>muss</strong> folgende Spalten enthalten: </p>
+<div class="admonition box">
+<ul>
+<li><strong>SchuelerNachname</strong></li>
+<li><strong>SchuelerRufname</strong></li>
+<li><strong>SchuelerGeburtsdatum</strong> (für das Geburtsdatum auf dem Zeugnis)</li>
+<li><strong>SchuelerGeburtsort</strong> (für den Geburtsort auf dem Zeugnis)</li>
+<li><strong>SchuelerAufnahmedatum</strong> (wird aus Abgangszeugnissen angegeben)</li>
+<li><strong>SchuelerGeschlecht</strong> (für gendergerechte Floskeln)</li>
+<li><strong>GruppeBezeichnung</strong> (Klassenangabe auf dem Zeugnis und Zuordnung zur Klasse)</li>
+<li><strong>GruppeId</strong> (eindeutige Identifikationsnummer der Klasse bei Mehrfachimporten)</li>
+<li><strong>SchuelerId</strong> (eindeutige Identifiktaionsnummer des Schülers bei namensgleichen Schülern)</li>
+</ul>
+</div>
+<div class="admonition warning">
+<p>Die csv-Datei <strong>muss</strong> im Format UTF-8 formatiert sein und die Spalten müssen per <strong>Semikolon</strong> voneinander getrennt sein. <br/></p>
+<p><strong>Beispiel <a href="../../../img/01_Administration/schueler_csv_beispiel.png">ansehen</a> oder <a href="../../../files/schueler_csv_beispiel.csv">herunterladen</a></strong></p>
+</div>
+<div class="admonition success">
+<p>Eine Datei mit genau diesen Eigenschaften kann mit DaNis erstellt werden (freie Liste).</p>
+</div>
+<p><br/></p>
+<h3 id="csv-lehrerimport-vorbereitung">CSV-Lehrerimport (Vorbereitung)</h3>
+<p>Die CSV-Datei für den Schülerimport <strong>muss</strong> folgende Spalten enthalten: </p>
+<div class="admonition box">
+<ul>
+<li><strong>Nachname</strong></li>
+<li><strong>Vorname</strong></li>
+<li><strong>Account</strong> (wird als Benutzername verwendet)</li>
+<li><strong>Import-ID</strong> (eindeutige Zuordnung bei namensgleichen KuK)</li>
+<li><strong>Email-Adresse</strong> (Passworterstellung, 2-Faktor-Authentifizierung)</li>
+</ul>
+<p><div class="danger">
+    Lehrerbenutzer <strong>müssen</strong> eine Email-Adresse besitzen. <br/><br/>
+    - Einladungsmail zur Passworterstellung kann nicht versendet werden <br/>
+    - Passwort kann nicht zurückgesetzt werden <br/>
+    - 2-Faktor-Authentifizierung per Mail kann nicht durchgeführt werden <br/><br/>
+    Lehrerbenutzer ohne Email-Adresse werden nicht importiert.
+</div></p>
+</div>
+<div class="admonition warning">
+<p>Die csv-Datei <strong>muss</strong> im Format UTF-8 formatiert sein und die Spalten müssen per <strong>Semikolon</strong> voneinander getrennt sein. <br/></p>
+<p><strong>Beispiel <a href="../../../img/01_Administration/lehrer_csv_beispiel.png">ansehen</a> oder <a href="../../../files/lehrer_csv_beispiel.csv">herunterladen</a></strong></p>
+</div>
+<div class="admonition success">
+<p>Eine Datei mit diesen Eigenschaften <a href="../../../img/01_Administration/lehrer_iserv.gif">kann mit IServ</a> erstellt werden. (minimale Nachbearbeitung nötig)</p>
+</div>
 </article>
 </div>
 </div>
