@@ -3,7 +3,16 @@ hide:
   - footer
 ---
 
-### Schüler*innen - Import
+## Importmöglichkeiten
+Aktuell stehen zwei Möglichkeiten zur Verfügung, um Diplomify mit den nötigen Schüler- Lehrer - und Unterrichtsdaten zu versorgen: <br>
+
+- CSV-Import<br>
+- WebUntis-Import<br>
+
+Welche Daten jeweils importiert werden können, zeigen die Tabellen T1 & T2. <br>
+
+
+### Schüler*innen - Import (T1)
 | Merkmal Schüler*innen | CSV-Import                                                      | Webuntis-Import                             |
 |-----------------------|:---------------------------------:|:-------------------------------------------:|
 | Nachname              |:material-check-bold:{ .success }  |:material-check-bold: { .success }           |
@@ -16,7 +25,7 @@ hide:
 | Klasse-ID             |:material-check-bold:{ .success }  |:material-check-bold: { .success }           |
 | Schüler-ID            |:material-check-bold:{ .success }  |:material-check-bold: { .success }           |
 
-### Lehrer*innen - Import
+### Lehrer*innen - Import (T2)
 | Merkmal Lehrer*innen  | CSV-Import                        | Webuntis-Import                             |
 |-----------------------|:---------------------------------:|:-------------------------------------------:|
 | Nachname              |:material-check-bold:{ .success }  |:material-check-bold: { .success }           |
@@ -27,24 +36,63 @@ hide:
 | E-Mail-Adresse        |:material-check-bold:{ .success }  |:material-check-bold: { .success }           |
 | Schulverwaltungs-ID   |:material-check-bold:{ .success }  |:material-check-bold: { .success }           |
 
+<br>
+##CSV-Import
+Die Quellen für die CSV-Dateien sind sehr schulindividuell, in der Regel können die Daten aber aus dem verwendeten Schulverwaltungsprogramm exportiert werden. <br>
+Beim CSV-Import werden SuS automatisch ihren Klassen zugeordent. <br>
+**Eine automatische Erstellung und Zuordnung zu Kursen (z.B. WPK oder Profile) erfolgt nicht.** <br>
+Diese können aber leicht von den entsprechenden KuK angelegt werden.
+<br>
+### CSV-Schülerimport (Vorbereitung)
+Die CSV-Datei für den Schülerimport **muss** folgende Spalten enthalten: 
+
+!!! box ""
+    - **SchuelerNachname**
+    - **SchuelerRufname**
+    - **SchuelerGeburtsdatum** (für das Geburtsdatum auf dem Zeugnis)
+    - **SchuelerGeburtsort** (für den Geburtsort auf dem Zeugnis)
+    - **SchuelerAufnahmedatum** (wird aus Abgangszeugnissen angegeben)
+    - **SchuelerGeschlecht** (für gendergerechte Floskeln)
+    - **GruppeBezeichnung** (Klassenangabe auf dem Zeugnis und Zuordnung zur Klasse)
+    - **GruppeId** (eindeutige Identifikationsnummer der Klasse bei Mehrfachimporten)
+    - **SchuelerId** (eindeutige Identifiktaionsnummer des Schülers bei namensgleichen Schülern)
+
+!!! warning ""
+    Die csv-Datei **muss** im Format UTF-8 formatiert sein und die Spalten müssen per **Semikolon** voneinander getrennt sein. <br>
+    
+    **Beispiel [ansehen](../../img/01_Administration/schueler_csv_beispiel.png) oder [herunterladen](../../files/schueler_csv_beispiel.csv)**
+
+!!! success ""
+    Eine Datei mit genau diesen Eigenschaften kann mit DaNis erstellt werden (freie Liste).
+
+<br>
+### CSV-Lehrerimport (Vorbereitung)
+Die CSV-Datei für den Schülerimport **muss** folgende Spalten enthalten: 
+!!! box ""
+    - **Nachname**
+    - **Vorname**
+    - **Account** (wird als Benutzername verwendet)
+    - **Import-ID** (eindeutige Zuordnung bei namensgleichen KuK)
+    - **Email-Adresse** (Passworterstellung, 2-Faktor-Authentifizierung)
 
 
-### CSV-Import aus DaNiS
+    <div class="danger">
+        Lehrerbenutzer **müssen** eine Email-Adresse besitzen. <br><br>
+        - Einladungsmail zur Passworterstellung kann nicht versendet werden <br>
+        - Passwort kann nicht zurückgesetzt werden <br>
+        - 2-Faktor-Authentifizierung per Mail kann nicht durchgeführt werden <br><br>
+        Lehrerbenutzer ohne Email-Adresse werden nicht importiert.
+    </div>
 
-    - SchuelerNachname
-    - SchuelerRufname
-    - SchuelerGeburtsdatum
-    - SchuelerGeburtsort
-    - SchuelerAufnahmedatum
-    - SchuelerGeschlecht
-    - GruppeBezeichnung
-    - GruppeId
-    - SchuelerId
+!!! warning ""
+    Die csv-Datei **muss** im Format UTF-8 formatiert sein und die Spalten müssen per **Semikolon** voneinander getrennt sein. <br>
+    
+    **Beispiel [ansehen](../../img/01_Administration/lehrer_csv_beispiel.png) oder [herunterladen](../../files/lehrer_csv_beispiel.csv)**
 
 
-### CSV-Import aus IServ
+!!! success ""
+    Eine Datei mit diesen Eigenschaften [kann mit IServ](../../img/01_Administration/lehrer_iserv.gif) erstellt werden. (minimale Nachbearbeitung nötig)
 
-    - Nachname
-    - Vorname
-    - Account
-    - Import-ID
+    
+
+
