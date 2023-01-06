@@ -17,8 +17,9 @@ Gib nun deine Mailadresse ein und warte auf die Mail von Diplomify. Darin bekomm
 Falls nach etwa 5 Minuten keine Mail angekommen ist: <br>
   - sieh im Spam-Ordner nach <br>
   - probier es noch einmal und kontrolliere gewissenhaft die Schreibweise <br>
-  - frag deinen Admin, ob er für dich schon einen Account angelegt hat und welche Mailadresse er verwendet hat
+  - frag deinen Admin, ob er für dich schon einen Account angelegt hat und welche Mailadresse er verwendet hat<br>
 
+[:material-movie-open: Video ansehen ...](../../img/09_Misc/password_reset.gif)
 
 ### Einladungsmail nicht erhalten oder verloren
 Die Einladungsmail enthält Anweisungen zur Passworterstellung. Diesen Prozess muss man durchlaufen, sonst hat man kein  Passwort für den Login. <br><br>
