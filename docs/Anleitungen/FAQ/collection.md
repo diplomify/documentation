@@ -23,7 +23,7 @@ Falls nach etwa 5 Minuten keine Mail angekommen ist: <br>
 
 ### Einladungsmail nicht erhalten oder verloren
 Die Einladungsmail enthält Anweisungen zur Passworterstellung. Diesen Prozess muss man durchlaufen, sonst hat man kein  Passwort für den Login. <br><br>
-Hat man keinen Zugriff auf die Einladungsmail, kann die Passworterstellung kann auch über "Passwort vergessen" ausgelöst werden.
+Hat man keinen Zugriff auf die Einladungsmail, kann die Passworterstellung kann auch über "[Passwort vergessen](../../img/09_Misc/password_reset.gif)" ausgelöst werden.
 
 Wenn du tatsächlich keine Einladungsmail erhalten hast, nimm bitte Kontakt zu deinem Administrator auf. Möglicherweise wurde noch kein Benutzeraccount erstellt oder es wurde eine fehlerhafte Mailadresse hinterlegt. <br>
 
