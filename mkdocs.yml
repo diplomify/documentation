@@ -44,6 +44,8 @@ plugins:
 nav:
   - 'Startseite': 'index.md'
 
+  - 'Häufig gefragt': 'Anleitungen/FAQ/collections.md'
+
   - 'Schritt für Schritt Anleitungen':
     - 'Bewerten':
       - 'Noten eintragen': 'Anleitungen/Schritt_für_Schritt/Noten_eintragen.md' 

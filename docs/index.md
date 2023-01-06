@@ -40,6 +40,15 @@ hide:
 
 !!! box ""
     <!-- <img class="off-glb img-small-left" src="./img/assets/icons/route.png" align="left"> -->
+    ### FAQ
+
+    Häufig gefragt, schnell beantwortet.
+
+
+    [weiterlesen...](Anleitungen/FAQ/collection.md)
+
+!!! box ""
+    <!-- <img class="off-glb img-small-left" src="./img/assets/icons/route.png" align="left"> -->
     ### Schritt für Schritt Anleitungen
 
     Einfache Erklärungen typischer Aufgaben - Schritt für Schritt.
