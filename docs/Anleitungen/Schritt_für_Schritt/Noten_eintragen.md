@@ -18,7 +18,7 @@ Es gibt mehrere Möglichkeiten Noten einzugeben:
     </figure>
     <figure>
         <figcaption class="img-caption">Schüleransicht</figcaption>
-        <img class="image scale" src="../../../img/02_Schritt_für_Schritt/noten/schüleransicht.png"alt="Schüleransicht" width="200" height="">
+        <img class="image scale" src="../../../img/02_Schritt_für_Schritt/noten/einzelfach.png" alt="Schüleransicht" width="200" height="">
     </figure>
 </div>
 <br>
