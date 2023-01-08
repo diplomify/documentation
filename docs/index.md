@@ -55,9 +55,3 @@ hide:
   </a>
 </div>
 </section>
-
-
-
-<div class="footer">
-Icons from <a href="https://commons.wikimedia.org/wiki/Main_Page" target="blank">Wikimedia.org</a>
-</div>
