@@ -18,7 +18,7 @@ Es gibt mehrere Möglichkeiten Noten einzugeben:
     </figure>
     <figure>
         <figcaption class="img-caption">Schüleransicht</figcaption>
-        <img class="image scale" src="../../../img/02_Schritt_für_Schritt/noten/einzelfach.png" alt="Schüleransicht" width="200" height="">
+        <img class="image scale" src="../../../img/02_Schritt_für_Schritt/noten/schueleransicht.png" alt="Schüleransicht" width="200" height="">
     </figure>
 </div>
 <br>
@@ -98,7 +98,7 @@ Achtung: Diplomify überprüft nicht die Qualität der Eingaben. Sobald eine bel
 
 ## 3. Schüleransicht
 
-![Schüleransicht](../../../img/02_Schritt_für_Schritt/noten/schüleransicht.png){ .img-norm } 
+![Schüleransicht](../../../img/02_Schritt_für_Schritt/noten/schueleransicht.png){ .img-norm } 
 
 Zur Schüleransicht gelangst du durch einen Klick auf den Schülernamen in der Notentabelle.
 
