@@ -7,10 +7,31 @@ hide:
 
 # Hi. Wie können wir helfen?
 <br>
+<section>
+<h4>Alle Anleitungen</h4>
+<div class="space-around">
+    <a class="category" href="https://docs.diplomify.de/Anleitungen/FAQ/collection/">
+        <h2 class="center">FAQ</h2>
+        <img class="off-glb img-x-small" src="./img/assets/icons/faq.png">
+        <span class="text-standard center">Häufig gefragt, schnell beantwortet.</span>
+    </a>
+    <a class="category" href="https://docs.diplomify.de/Anleitungen/Schritt_f%C3%BCr_Schritt/Noten_eintragen/">
+        <h2 class="center">Schritt für Schritt</h2>
+        <img class="off-glb img-x-small" src="./img/assets/icons/finish.png">
+        <span class="text-standard center">Einfache Erklärungen typischer Aufgaben - Schritt für Schritt.</span> 
+    </a>
+        <a class="category" href="https://docs.diplomify.de/Anleitungen/Administration/%C3%9Cbersicht/">
+        <h2 class="center">Administration</h2>
+        <img class="off-glb img-x-small" src="./img/assets/icons/cogs.png">
+        <span class="text-standard center">Der Maschinenraum von Diplomify - alles, was du darüber wissen musst.</span>
+    </a>
+</div>
+</section>
 <br>
-<p style="text-align: center"><h4>Unsere Empfehlungen</h4></p>
-
-
+---
+<br>
+<section>
+<h4>Unsere Empfehlungen</h4>
 <div class="space-around">
   <a href="./img/quick_start/bewertungsuebersicht.png" target="_blank">
       <figure>
@@ -33,54 +54,10 @@ hide:
       </figure>
   </a>
 </div>
-<br>
----
-<br>
-<p style="text-align: center"><h4>Alle Anleitungen</h4></p>
-
-!!! box ""
-    <!-- <img class="off-glb img-small-left" src="./img/assets/icons/route.png" align="left"> -->
-    ### FAQ
-
-    Häufig gefragt, schnell beantwortet.
+</section>
 
 
-    [weiterlesen...](Anleitungen/FAQ/collection.md)
 
-!!! box ""
-    <!-- <img class="off-glb img-small-left" src="./img/assets/icons/route.png" align="left"> -->
-    ### Schritt für Schritt Anleitungen
-
-    Einfache Erklärungen typischer Aufgaben - Schritt für Schritt.
-
-
-    [weiterlesen...](Anleitungen/Schritt_für_Schritt/Arbeits-_&_Sozialverhalten.md)
-
-<!-- !!! box ""
-    <img class="img-small-left" src="./img/assets/icons/lagen.png" align="left">
-    ### Arbeitsbereiche
-
-    Lerne hier die einzelnen Arbeitsbereiche in Diplomify kennen - und was du dort alles machen kannst.
-
-
-    [weiterlesen...](Anleitungen/Arbeitsbereiche/Bewertungsuebersicht.md) -->
-
-
-<!-- !!! box ""
-    <img class="off-glb img-small-left" src="./img/assets/icons/zauberstab.png" align="left">
-    ### Komfortfunktionen
-
-    Diplomify unterstützt dich bei der Arbeit. Lerne hier, wie genau.
-
-    [weiterlesen...](quick_start.md)
---- -->
-
-!!! box ""
-   
-    <!--  <img class="off-glb img-small-left" src="./img/assets/icons/schlussel.png" align="left"> -->
-
-    ### Administration
-
-    Diplomify unterstützt dich bei der Arbeit. Lerne hier, wie genau.
-
-    [weiterlesen...](Anleitungen/Administration/Übersicht.md)
+<div class="footer">
+Icons from <a href="https://commons.wikimedia.org/wiki/Main_Page" target="blank">Wikimedia.org</a>
+</div>

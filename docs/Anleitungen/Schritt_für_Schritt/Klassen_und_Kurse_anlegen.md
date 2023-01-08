@@ -34,13 +34,6 @@ Der Klassenunterricht wird nun angelegt und dir auf der Seite "Mein Unterricht" 
 
     klicke einfach auf dessen Namen, benenne ihn um und bestätige mit ++return++
 
-!!! note ""
-    **Um einzelne zugeordnete Schüler*innen wieder zu entfernen**, 
-    
-    1. klicke in deiner Unterrichtsübersicht beim entsprechenden Kurs auf "bewerten", 
-    2. wähle den gewünschten Namen
-    3. und klicke auf das Mülleimer-Symbol neben dem Namen in der rechten Spalte. <br> (Vor dem Löschen erfolgt eine Sicherheitsabfrage.)
-
 !!! danger ""
     Das Fach eines Klassenunterrichts kann nicht nachträglich geändert werden.
 
@@ -49,7 +42,7 @@ Der Klassenunterricht wird nun angelegt und dir auf der Seite "Mein Unterricht" 
 <br>
 <br>
 
-## 1. Kursunterricht anlegen
+## 2. Kursunterricht anlegen
 
 Klicke auf der Seite "Mein Unterricht" oben rechts auf "Unterricht hinzufügen" und wähle den Reiter "Kursunterricht" <br>
 
@@ -70,14 +63,25 @@ Klicke auf der Seite "Mein Unterricht" oben rechts auf "Unterricht hinzufügen" 
 
     klicke einfach auf dessen Namen, benenne ihn um und bestätige mit ++return++
 
-!!! note ""
-    **Um einzelne zugeordnete Schüler*innen wieder zu entfernen**, 
-    
-    1. klicke in deiner Unterrichtsübersicht beim entsprechenden Kurs auf "bewerten", 
-    2. wähle den gewünschten Namen
-    3. und klicke auf das Mülleimer-Symbol neben dem Namen in der rechten Spalte. <br> (Vor dem Löschen erfolgt eine Sicherheitsabfrage.)
+
 
 !!! danger ""
     Das Fach eines Kursunterrichts kann nicht nachträglich geändert werden.
 
     Sollte versehentlich das falsche Fach gewählt worden sein, muss der Kursnunterricht neu angelegt werden.
+
+<br>
+## 3. Mein Kursunterricht verwalten
+
+### 3.1 Einzelne Schüler*innen wieder entfernen 
+    
+1. klicke in deiner Unterrichtsübersicht beim entsprechenden Kurs auf "bewerten", 
+2. wähle den gewünschten Namen
+3. und klicke auf das Mülleimer-Symbol neben dem Namen in der rechten Spalte. <br> (Vor dem Löschen erfolgt eine Sicherheitsabfrage.)
+
+### 3.2 SuS nachträglich hinzufügen
+
+Mittels der Schülersuche innerhalb eines Kurses werden auch SuS gefunden, die diesem Kurs noch nicht zugeordnet sind.
+Durch einen Klick auf das "Plus" werden die gewünschten SuS dem Kurs hinzugefügt.<br>
+
+![SuS hinzufügen](/img/02_Schritt_für_Schritt/schuelersuche_kurs.png)

@@ -9,7 +9,7 @@ hide:
 Wir wissen, dass es bei Diplomify eine Menge zu lernen gibt. Daher gibt's das hier: kurz überfliegen und schnell die kleinen Probleme lösen.
 
 <br>
-## Alles mit Login
+## Login
 
 ### Passwort vergessen
 Gehe auf die Loginseite von Diplomify und klicke unter dem "Anmelden"-Button auf "Passwort vergessen".<br><br>
@@ -27,3 +27,17 @@ Hat man keinen Zugriff auf die Einladungsmail, kann die Passworterstellung kann 
 
 Wenn du tatsächlich keine Einladungsmail erhalten hast, nimm bitte Kontakt zu deinem Administrator auf. Möglicherweise wurde noch kein Benutzeraccount erstellt oder es wurde eine fehlerhafte Mailadresse hinterlegt. <br>
 
+<br>
+## Mein Unterricht
+
+### Mein Kurs ist nirgends zu sehen
+
+### Kurszuordnung von SuS nicht möglich
+
+### SuS aus Kursen entfernen
+
+### Ich habe einen Kurs versentlich verlassen
+
+### SuS nachträglich zu Kursen hinzufügen
+
+### SuS aus Kursen entfernen

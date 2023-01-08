@@ -43,7 +43,28 @@ background-color: #F8F9FA;
     color: #868E96;
 }
 
+.text-standard {
+    color: #484848;
+}
+
 /* ::::::::::::: Boxes ::::::::::::: */
+
+.category {
+    width: 300px;
+    padding: 1rem;
+    margin-top: 1rem;
+    border-radius: 7px;
+    text-decoration: none !important;
+    transition: all .3s !important;
+}
+
+.category:hover {
+    outline: 1px solid #EAEDEF;
+    background-color: #FAFDFF;
+    outline: none;
+    box-shadow: rgb(0 0 0 / 16%) 0px 3px 6px, rgb(0 0 0 / 23%) 0px 3px 6px;
+    -webkit-box-shadow: rgb(0 0 0 / 16%) 0px 3px 6px, rgb(0 0 0 / 23%) 0px 3px 6px;
+} 
 
 /* ------------- Descriptions ------------- */
 .md-typeset .admonition.box,
@@ -303,6 +324,12 @@ background-color: #F8F9FA;
     margin: 1rem 0 1rem 2rem!important;
 }
 
+.img-x-small {
+    display: flex;
+    margin: 1.5rem auto;
+    width: 75px !important;
+}
+
 .img-caption {
     font-style: normal !important;
     font-weight: 600 !important;
@@ -394,3 +421,10 @@ table {
     padding: 2rem;
 }
 
+.footer {
+    position: absolute;
+    padding-top: 1rem;
+    bottom: 50px;
+    right: 10px;
+    font-size: 12px;
+}
