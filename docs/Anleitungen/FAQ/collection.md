@@ -31,13 +31,23 @@ Wenn du tatsächlich keine Einladungsmail erhalten hast, nimm bitte Kontakt zu d
 ## Mein Unterricht
 
 ### Mein Kurs ist nirgends zu sehen
+Wird ein Kurs nicht bei "Mein Unterricht" angezeigt, ist er nicht vorhanden.<br>
+Um ihn anzulegen navigiert man in "Mein Unterricht" zu "Unterricht hinzufügen", wählt "Kursunterricht", fügt die nötigen Informationen ein und legt einen neuen Kurs an.
 
 ### Kurszuordnung von SuS nicht möglich
+!!! danger ""
+    Der Kurs wurde nicht angelegt: 4 Schüler*innen bekommen dieses Fach bereits unterrichtet.
 
-### SuS aus Kursen entfernen
+[zum Artikel](../Schritt_f%C3%BCr_Schritt/Klassen_und_Kurse_anlegen.md#41-kurszuordnung-von-sus-nicht-moglich){ .md-button }
 
-### Ich habe einen Kurs versentlich verlassen
+### SuS aus Kursen/Unterricht entfernen
+[zum Artikel](../Schritt_f%C3%BCr_Schritt/Klassen_und_Kurse_anlegen.md#31-einzelne-schulerinnen-wieder-entfernen){ .md-button }
 
 ### SuS nachträglich zu Kursen hinzufügen
+[zum Artikel](../Schritt_f%C3%BCr_Schritt/Klassen_und_Kurse_anlegen.md#31-einzelne-schulerinnen-wieder-entfernen){ .md-button }
 
-### SuS aus Kursen entfernen
+### Ich habe einen Kurs versehentlich gelöscht
+Kurse können nur vom Admin gelöscht werden.<br>
+Wenn du bei "Mein Untericht" auf das "X" bei einem Kurs geklickt hast, hast du den Kurs nur verlassen. <br>
+Alle vergebenen Noten bleiben erhalten, du kannst dem Kurs einfach neu "beitreten".
+

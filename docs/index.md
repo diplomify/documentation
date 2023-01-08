@@ -55,3 +55,22 @@ hide:
   </a>
 </div>
 </section>
+<br>
+---
+<br>
+<section>
+<div>
+    <h4>Wir wollen besser werden</h4>
+    <br>
+    <span class="center"> 
+        Diplomify wächst stetig und erhält neue Funktionen.<br>
+        Und du kannst zu recht erwarten, dass wir die Funktionen benutzerfreundlich bauen.<br>
+        Aber manchmal ist dann doch eine Erklärung nötig.<br>
+        Hilf uns möglichst alle Fragen zu klären.<br>
+        Sag uns Bescheid, wenn dir eine Erklärung fehlt oder du mit einer vorhandenen Erklärung nicht zufrieden bist. <br>
+    </span>
+    <div class="center mt-2">
+        <a href="mailto:info@diplomify.de" class="md-button-xl">Erlärung einfordern</a>
+    </div>
+</div>
+</section>

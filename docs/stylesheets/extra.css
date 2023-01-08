@@ -428,3 +428,36 @@ table {
     right: 10px;
     font-size: 12px;
 }
+
+.md-button {
+    padding: 3px 10px !important;
+    border-radius: 7px !important;
+    font-weight: 400 !important;
+    font-size: small;
+    border: 1px solid #B53AD2 !important;
+    background-color: #FCF5FE !important;
+    color: #781F89 !important;
+    cursor:  pointer !important;
+}
+
+.md-button:hover {
+    background-color: #F7E9FE !important;
+}
+
+.md-button-xl {
+    padding: 3px 10px !important;
+    border-radius: 7px !important;
+    font-weight: 400 !important;
+    border: 1px solid #B53AD2 !important;
+    background-color: #FCF5FE !important;
+    color: #781F89 !important;
+    cursor:  pointer !important;
+}
+
+.md-button-xl:hover {
+    background-color: #F7E9FE !important;
+}
+
+.mt-2 {
+    margin-top: 2rem;
+}

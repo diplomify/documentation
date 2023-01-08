@@ -79,9 +79,32 @@ Klicke auf der Seite "Mein Unterricht" oben rechts auf "Unterricht hinzufügen" 
 2. wähle den gewünschten Namen
 3. und klicke auf das Mülleimer-Symbol neben dem Namen in der rechten Spalte. <br> (Vor dem Löschen erfolgt eine Sicherheitsabfrage.)
 
+!!! tip ""
+    Du kannst übrigens in der Einzelfachansicht aus jedem Unterricht einzelne SuS entfernen.
+
 ### 3.2 SuS nachträglich hinzufügen
 
 Mittels der Schülersuche innerhalb eines Kurses werden auch SuS gefunden, die diesem Kurs noch nicht zugeordnet sind.
 Durch einen Klick auf das "Plus" werden die gewünschten SuS dem Kurs hinzugefügt.<br>
 
 ![SuS hinzufügen](/img/02_Schritt_für_Schritt/schuelersuche_kurs.png)
+
+<br>
+## 4. Was kann schiefgehen?
+
+### 4.1 Kurszuordnung von SuS nicht möglich
+SuS können nicht 2x dasselbe Fach unterrichtet bekommen.
+
+!!! danger ""
+    Der Kurs wurde nicht angelegt: 4 Schüler*innen bekommen dieses Fach bereits unterrichtet.
+
+Folgende Gründe können diese Meldung verursachen:<br>
+  1. Die Kinder sind bereits einem Unterricht in diesem Fach zugeordnet. (z.B.: Es wurde versucht ein Kurs in einem Standard - Haupt- oder Nebenfach anzulegen)<br>
+  2. Es wurde versucht einige Kinder aus einem vorhandenen Unterricht herauszulösen und mit ihnen einen neuen Kurs zu bilden. (z.B: Einige Kinder erhielten Förderunterricht in Mathematik bei einer weiteren Lehrkraft, die nun versucht aus ihren Kindern einen Kurs zu bilden.)
+<br>
+<br>
+Lösung zu 1.: Um ein Standard-Fach zu "Mein Unterricht" hinzuzufügen wähle bei der Kurserstellung "Klassenunterricht".<br>
+Lösung zu 2.: Die entsprechenden Kinder müssen erst aus dem Standard-Unterricht entfernt werden und können anschließend einem neuen Kurs zugeordnet werden.
+
+!!! tip ""
+    Um derartige Konflikte zu vermeiden, sollte der Administrator jeden regelmäßigen Unterricht in Diplomify anlegen. Dann kann dieser Unterricht bei der Kurserstellung ausgewählt werden. 
