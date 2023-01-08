@@ -12,15 +12,13 @@ Es gibt mehrere Möglichkeiten Noten einzugeben:
         <figcaption class="img-caption">Bewertungsübersicht</figcaption>
         <img class="image scale" src="../../../img/02_Schritt_für_Schritt/noten/tabelle.png" alt="Bewertungsübersicht" width="200" height="">
     </figure>
-
     <figure>
         <figcaption class="img-caption">Einzelfachansicht</figcaption>
         <img class="image scale" src="../../../img/02_Schritt_für_Schritt/noten/einzelfach.png" alt="Einzelfachansicht" width="200" height="">
     </figure>
-
     <figure>
         <figcaption class="img-caption">Schüleransicht</figcaption>
-        <img class="image scale" src="../../../img/02_Schritt_für_Schritt/noten/schüleransicht.png" alt="Schüleransicht" width="200" height="">
+        <img class="image scale" src="../../../img/02_Schritt_für_Schritt/noten/schüleransicht.png"alt="Schüleransicht" width="200" height="">
     </figure>
 </div>
 <br>
