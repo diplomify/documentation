@@ -70,7 +70,7 @@ hide:
         Sag uns Bescheid, wenn dir eine Erklärung fehlt oder du mit einer vorhandenen Erklärung nicht zufrieden bist. <br>
     </span>
     <div class="center mt-2">
-        <a href="mailto:info@diplomify.de" class="md-button-xl">Erlärung einfordern</a>
+        <a href="mailto:info@diplomify.de" class="md-button-xl">Verbesserung vorschlagen</a>
     </div>
 </div>
 </section>
