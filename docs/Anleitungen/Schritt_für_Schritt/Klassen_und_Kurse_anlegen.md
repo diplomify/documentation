@@ -52,7 +52,7 @@ Klicke auf der Seite "Mein Unterricht" oben rechts auf "Unterricht hinzufügen" 
 2. Wähle die Teilnehmer*innen deines Kurses aus, indem du auf die Namen klickst.
 3. Wechsle bei Bedarf die Klasse, um weitere SuS hinzuzufügen.
 4. Lege das Unterrichtsfach fest. (In diesem Fach steht bei den Kursteilnehmenden auf dem Zeugnis die Note.)
-5. Vergib einen beliebigen Namen. Wir empfhelen eine Kombination aus Fach und Jahrgang. (z.B. WPK Biologie 6)
+5. Vergib einen beliebigen Namen. Wir empfehlen eine Kombination aus Fach und Jahrgang. (z.B. WPK Biologie 6)
 6. Erstelle den Kurs durch Klick auf "Erstellen"
 
 !!!info ""
