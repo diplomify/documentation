@@ -48,7 +48,8 @@ nav:
 
   - 'Schritt für Schritt Anleitungen':
     - 'Bewerten':
-      - 'Noten eintragen': 'Anleitungen/Schritt_für_Schritt/Noten_eintragen.md' 
+      - 'Noten eintragen': 'Anleitungen/Schritt_für_Schritt/Noten_eintragen.md'
+      - 'Versetzungswarnungen': 'Anleitungen/Schritt_für_Schritt/Versetzungswarnungen.md'
     - 'Klassenübersicht':
       - 'Arbeits- & Sozialverhalten': 'Anleitungen/Schritt_für_Schritt/Arbeits-_&_Sozialverhalten.md'
       - 'Dich selbst als Klassenleitung eintragen': 'Anleitungen/Schritt_für_Schritt/Dich_selbst_als_Klassenleitung_eintragen.md'
@@ -73,3 +74,5 @@ nav:
     - 'Import': 'Anleitungen/Administration/Import.md'    
     - 'Schüler und Klassen verwalten': 'Anleitungen/Administration/Schüler_und_Klassen_verwalten.md' 
     - 'Backups': 'Anleitungen/Administration/Backup.md' 
+    - 'Versetzungswarnungen': 'Anleitungen/Administration/Versetzungswarnungen_schulweit_drucken.md' 
+  
