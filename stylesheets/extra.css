@@ -31,6 +31,11 @@ background-color: #F8F9FA;
     color: #0c6
 }
 
+.success-contrast {
+    color: #02994E!important;
+
+}
+
 .warning {
     color: #f88600;
 }
