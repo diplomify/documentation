@@ -33,6 +33,18 @@ Bei Fächern mit abweichendem Anforderungsniveau wird das gewählte Niveau auf d
     Fächer können nicht mehr gelöscht werden, wenn ein beliebiger Schüler darin bewertet wurde.
 <br>
 
+## Fächervariablen
+
+Interessen, Fähigkeiten, Fertigkeiten - interessen
+
+Sprechen und Zuhören - sprechen
+Lesen und mit Texten umgehen - lesen
+Schreiben, Texte erfassen - schreiben
+
+Zahlen und Operationen - zahlen
+Größen und Messen - messen
+Raum und Form - raum
+
 
 ## Fachgruppen verwalten
 

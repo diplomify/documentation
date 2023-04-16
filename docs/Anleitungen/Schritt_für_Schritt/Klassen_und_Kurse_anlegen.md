@@ -9,71 +9,43 @@ hide:
     **Warum muss ich das überhaupt machen?**<br>
     Wenn Deine Schule Diplomify mit einer Verwaltungssoftware wie WebUntis verbunden hat, findest du hier automatisch deinen Unterricht. - Keine weiteren Handlungen nötig.<br> <br>
     Wenn nicht, kannst du deinen eigenen Unterricht für das aktuelle Halbjahr anlegen, um einen besseren Überblick über deine bereits vergebenen Noten zu bekommen und schneller jene Schüler*innen zu bewerten, die du unterrichtest.
-<br>
-**Wechsle dazu in "Mein Unterricht"**
-
-<br>
+    <br>
+    Standardmäßig werden so auch Kurse und Profile angelegt.
 <br>
 
-## 1. Klassenunterricht anlegen
+## 1. Unterricht anlegen
 
-Klicke auf der Seite "Mein Unterricht" oben rechts auf "Unterricht hinzufügen" und wähle den Reiter "Klassenunterricht" <br>
+Wechsle dazu in "Mein Unterricht" <br>
+Klicke nun auf der Seite "Mein Unterricht" oben rechts auf "Unterricht hinzufügen"<br>
 
-![Klasse_anlegen](/img/02_Schritt_für_Schritt/Klassen_anlegen.png)
+![Unterricht anlegen](/img/02_Schritt_für_Schritt/Kursunterricht_erstellen.png)
 
 
- 1. Vergib nun einen beliebigen Namen. Dieser Name dient nur zu deiner Orientierung. Wir empfehlen eine Kombination aus Klasse und Fach. (z.B. "10d Deutsch")
- 2. Lege das unterrichete Fach fest. (In diesem Fach steht bei den SuS auf dem Zeugnis die Note.)
- 3. Wähle die unterrichtete Klasse aus.
- 4. Erstelle den Unterricht durch Klick auf "Erstellen"
-
-Der Klassenunterricht wird nun angelegt und dir auf der Seite "Mein Unterricht" angezeigt. Von hier aus kannst du schnell in die Bewertungsansicht wechseln. Klicke dazu einfach bei dem entsprechenden Unterricht auf "bewerten"
-
-!!! note ""
-    **Um angelegten Klassenunterricht umzubenennen**,
-
-    klicke einfach auf dessen Namen, benenne ihn um und bestätige mit ++return++
-
-!!! danger ""
-    Das Fach eines Klassenunterrichts kann nicht nachträglich geändert werden.
-
-    Sollte versehentlich das falsche Fach gewählt worden sein, muss der Klassenunterricht neu angelegt werden.
-
-<br>
-<br>
-
-## 2. Kursunterricht anlegen
-
-Klicke auf der Seite "Mein Unterricht" oben rechts auf "Unterricht hinzufügen" und wähle den Reiter "Kursunterricht" <br>
-
-![Kurse_anlegen](/img/02_Schritt_für_Schritt/Kursunterricht_erstellen.png)
-
-1. Wähle nun die Klasse, aus der Schüler*innen deinen Kurs besuchen.
+1. Wähle nun die Klasse der Schüler*innen aus, die deinen Unterricht besuchen.
 2. Wähle die Teilnehmer*innen deines Kurses aus, indem du auf die Namen klickst.
 3. Wechsle bei Bedarf die Klasse, um weitere SuS hinzuzufügen.
-4. Lege das Unterrichtsfach fest. (In diesem Fach steht bei den Kursteilnehmenden auf dem Zeugnis die Note.)
-5. Vergib einen beliebigen Namen. Wir empfehlen eine Kombination aus Fach und Jahrgang. (z.B. WPK Biologie 6)
-6. Erstelle den Kurs durch Klick auf "Erstellen"
-
-!!!info ""
-    Der Kursunterricht wird nun angelegt und dir auf der Seite "Mein Unterricht" angezeigt. Von hier aus kannst du schnell in die Bewertungsansicht wechseln. Klicke dazu einfach bei dem entsprechenden Unterricht auf "bewerten"
-
-!!! note ""
-    **Um angelegten Kursunterricht umzubenennen**,
-
-    klicke einfach auf dessen Namen, benenne ihn um und bestätige mit ++return++
-
-
+4. Lege das Unterrichtsfach fest.
 
 !!! danger ""
-    Das Fach eines Kursunterrichts kann nicht nachträglich geändert werden.
+    Achte bei der Auswahl auf die Korrektheit des gewählten Faches. <br>
+    Das zugeordnete Fach eines Unterrichts kann nicht nachträglich geändert werden. Sollte versehentlich das falsche Fach gewählt worden sein, muss der Unterricht neu angelegt werden. <br>
+    Sollte dein Fach nicht in dem Drop-Down-Menu angezeigt werden, kontaktiere deinen Administrator. Wähle nicht einfach das nächstbeste Fach aus.<br>
+    Bei dem gewählten Fach wird die vergebene Note auf dem Zeugnis eingetragen.
 
-    Sollte versehentlich das falsche Fach gewählt worden sein, muss der Kursnunterricht neu angelegt werden.
+5. Vergib einen beliebigen Namen. Wir empfehlen eine Kombination aus Fach und Jahrgang. (z.B. WPK Biologie 6)
+6. Erstelle den Unterricht durch Klick auf "Erstellen"
 
+Wenn du Unterricht für eine ganze Klasse anlegen möchtest (z.B. Deutsch), wähle die entsprechende Klasse und füge dann alle Schüler*innen dieser Klasse hinzu.
+
+Der Unterricht wird nun angelegt und dir auf der Seite "Mein Unterricht" angezeigt. Von hier aus kannst du schnell in die Bewertungsansicht wechseln. Klicke dazu einfach bei dem entsprechenden Unterricht auf "bewerten"
+
+Um angelegten Klassenunterricht umzubenennen,klicke einfach auf dessen Namen, benenne ihn um und bestätige mit ++return++
 <br>
-## 3. Mein Kursunterricht verwalten
+<br>
 
-### 3.1 Einzelne Schüler*innen wieder entfernen 
+## 2. Meinen Unterricht verwalten
+
+### 2.1 Einzelne Schüler*innen wieder entfernen 
     
 1. klicke in deiner Unterrichtsübersicht beim entsprechenden Kurs auf "bewerten", 
 2. wähle den gewünschten Namen
@@ -82,7 +54,7 @@ Klicke auf der Seite "Mein Unterricht" oben rechts auf "Unterricht hinzufügen" 
 !!! tip ""
     Du kannst übrigens in der Einzelfachansicht aus jedem Unterricht einzelne SuS entfernen.
 
-### 3.2 SuS nachträglich hinzufügen
+### 2.2 SuS nachträglich hinzufügen
 
 Mittels der Schülersuche innerhalb eines Kurses werden auch SuS gefunden, die diesem Kurs noch nicht zugeordnet sind.
 Durch einen Klick auf das "Plus" werden die gewünschten SuS dem Kurs hinzugefügt.<br>
@@ -90,9 +62,10 @@ Durch einen Klick auf das "Plus" werden die gewünschten SuS dem Kurs hinzugefü
 ![SuS hinzufügen](/img/02_Schritt_für_Schritt/schuelersuche_kurs.png)
 
 <br>
-## 4. Was kann schiefgehen?
 
-### 4.1 Kurszuordnung von SuS nicht möglich
+## 3. Was kann schiefgehen?
+
+### 3.1 Kurszuordnung von SuS nicht möglich
 SuS können nicht 2x dasselbe Fach unterrichtet bekommen.
 
 !!! danger ""

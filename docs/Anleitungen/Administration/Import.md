@@ -6,13 +6,14 @@ hide:
 ## Importmöglichkeiten
 Aktuell stehen zwei Möglichkeiten zur Verfügung, um Diplomify mit den nötigen Schüler- Lehrer - und Unterrichtsdaten zu versorgen: <br>
 
-- CSV-Import<br>
+- [CSV-Import](#csv-import)<br>
 - WebUntis-Import<br>
 
-Welche Daten jeweils importiert werden können, zeigen die Tabellen T1 & T2. <br>
+Welche Daten jeweils importiert werden können, zeigen die Tabellen. <br>
 
 
-### Schüler*innen - Import (T1)
+**Schüler*innen - Import**
+
 | Merkmal Schüler*innen | CSV-Import                                                      | Webuntis-Import                             |
 |-----------------------|:---------------------------------:|:-------------------------------------------:|
 | Nachname              |:material-check-bold:{ .success }  |:material-check-bold: { .success }           |
@@ -25,7 +26,8 @@ Welche Daten jeweils importiert werden können, zeigen die Tabellen T1 & T2. <br
 | Klasse-ID             |:material-check-bold:{ .success }  |:material-check-bold: { .success }           |
 | Schüler-ID            |:material-check-bold:{ .success }  |:material-check-bold: { .success }           |
 
-### Lehrer*innen - Import (T2)
+**Lehrer*innen - Import**
+
 | Merkmal Lehrer*innen  | CSV-Import                        | Webuntis-Import                             |
 |-----------------------|:---------------------------------:|:-------------------------------------------:|
 | Nachname              |:material-check-bold:{ .success }  |:material-check-bold: { .success }           |
@@ -37,33 +39,23 @@ Welche Daten jeweils importiert werden können, zeigen die Tabellen T1 & T2. <br
 | Schulverwaltungs-ID   |:material-check-bold:{ .success }  |:material-check-bold: { .success }           |
 
 <br>
-##CSV-Import
+
+## CSV-Import
+
 Die Quellen für die CSV-Dateien sind sehr schulindividuell, in der Regel können die Daten aber aus dem verwendeten Schulverwaltungsprogramm exportiert werden. <br>
 Beim CSV-Import werden SuS automatisch ihren Klassen zugeordent. <br>
 **Eine automatische Erstellung und Zuordnung zu Kursen (z.B. WPK oder Profile) erfolgt nicht.** <br>
 Diese können aber leicht von den entsprechenden KuK angelegt werden.
 <br>
-### CSV-Schülerimport (Vorbereitung)
-Die CSV-Datei für den Schülerimport **muss** folgende Spalten enthalten: 
+### CSV-Schülerimport
+**Vorbereitung**
 
-!!! box ""
-    - **SchuelerNachname**
-    - **SchuelerRufname**
-    - **SchuelerGeburtsdatum** (für das Geburtsdatum auf dem Zeugnis)
-    - **SchuelerGeburtsort** (für den Geburtsort auf dem Zeugnis)
-    - **SchuelerAufnahmedatum** (wird aus Abgangszeugnissen angegeben)
-    - **SchuelerGeschlecht** (für gendergerechte Floskeln)
-    - **GruppeBezeichnung** (Klassenangabe auf dem Zeugnis und Zuordnung zur Klasse)
-    - **GruppeId** (eindeutige Identifikationsnummer der Klasse bei Mehrfachimporten)
-    - **SchuelerId** (eindeutige Identifiktaionsnummer des Schülers bei namensgleichen Schülern)
+ - [CSV-Datei aus DaNis exportieren...](Danisexport.md) <br>
+    Beispiel [ansehen](../../img/01_Administration/schueler_csv_beispiel.png) oder [herunterladen](../../files/schueler_csv_beispiel.csv)
 
-!!! warning ""
-    Die csv-Datei **muss** im Format UTF-8 formatiert sein und die Spalten müssen per **Semikolon** voneinander getrennt sein. <br>
-    
-    **Beispiel [ansehen](../../img/01_Administration/schueler_csv_beispiel.png) oder [herunterladen](../../files/schueler_csv_beispiel.csv)**
+**Durchführung**
 
-!!! success ""
-    Eine Datei mit genau diesen Eigenschaften kann mit DaNis erstellt werden (freie Liste).
+Navigiere zu 
 
 <br>
 ### CSV-Lehrerimport (Vorbereitung)

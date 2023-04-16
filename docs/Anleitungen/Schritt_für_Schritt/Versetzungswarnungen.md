@@ -16,7 +16,8 @@ Scrolle zum Bereich "Zusätzliche Informationen"
 
 Vergib die gewünschte Warnung. - Ein erneuter Klick auf die gewählte Warnung entfernt sie wieder.
 Der Text unter der Warnung weist auf die letzte Änderung hin.<br>
-**Die Eingabe wird automatisch gespeichert.**<br>
+
+:fontawesome-solid-thumbs-up:{ .success-contrast } **Die Eingabe wird automatisch gespeichert.**{ .success-contrast }<br>
 
 ![Warnungen](../../img/02_Schritt_für_Schritt/warnungen.png){ .image }
 

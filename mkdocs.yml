@@ -74,5 +74,7 @@ nav:
     - 'Import': 'Anleitungen/Administration/Import.md'    
     - 'Schüler und Klassen verwalten': 'Anleitungen/Administration/Schüler_und_Klassen_verwalten.md' 
     - 'Backups': 'Anleitungen/Administration/Backup.md' 
-    - 'Versetzungswarnungen': 'Anleitungen/Administration/Versetzungswarnungen_schulweit_drucken.md' 
+    - 'Versetzungswarnungen': 'Anleitungen/Administration/Versetzungswarnungen_schulweit_drucken.md'
+    - 'DaNis-Export': 'Anleitungen/Administration/Danisexport.md'
+
   
