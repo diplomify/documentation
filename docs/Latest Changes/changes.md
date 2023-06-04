@@ -36,8 +36,13 @@ hide:
 	*	Statistik über versetzt, nicht versetzt und aufgerückt
 	*	Floskeln können nun mit geschlechtsabhängigen Formulierungen versehen werden: männlich|weiblich|divers < alle Angaben nötig
 	*	bereits angelegte Floskeln sind jetzt editierbar
+	*	Fächern können nun Hilfstexte beigefügt werden, um die Kolleg*innen bei der Kurserstellung zu unterstützen
 
 	###Diverses
 	*	im Nutzerbereich ist nun eine Schülersuche, die direkt zur Schüler-Einzelansicht führt
 	*	"Konferenz starten" jetzt an präsenterer Stelle leichter zu finden
 	*	diverse Verbesserungen in UI und Stabilität
+
+	###Technisches
+	*	Im Hintergrund überwacht nun ein Masterserver alle Diplomify Instanzen und meldet Auslastungsspitzen, heruntergefahrene Server oder andere Probleme.
+	*	Ein neues Server-Verwaltungssystem erlaubt uns nun das flexible Erstellen oder Leistungsanpassungen bei vorhandenen Servern, sollte der Masterserver Leistungsprobleme melden. - Dabei läuft jede Instanz weiterhin auf dedizierten Servern in Deutschland.
