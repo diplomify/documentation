@@ -9,7 +9,7 @@ hide:
 Wir wissen, dass es bei Diplomify eine Menge zu lernen gibt. Daher gibt's das hier: kurz überfliegen und schnell die kleinen Probleme lösen.
 
 <br>
-## Login
+## 1. Login
 
 ### Passwort vergessen
 Gehe auf die Loginseite von Diplomify und klicke unter dem "Anmelden"-Button auf "Passwort vergessen".<br><br>
@@ -22,17 +22,18 @@ Falls nach etwa 5 Minuten keine Mail angekommen ist: <br>
 [:material-movie-open: Video ansehen ...](../../img/09_Misc/password_reset.gif)
 
 ### Einladungsmail nicht erhalten oder verloren
-Die Einladungsmail enthält Anweisungen zur Passworterstellung. Diesen Prozess muss man durchlaufen, sonst hat man kein  Passwort für den Login. <br><br>
+
 Hat man keinen Zugriff auf die Einladungsmail, kann die Passworterstellung kann auch über "[Passwort vergessen](../../img/09_Misc/password_reset.gif)" ausgelöst werden.
 
 Wenn du tatsächlich keine Einladungsmail erhalten hast, nimm bitte Kontakt zu deinem Administrator auf. Möglicherweise wurde noch kein Benutzeraccount erstellt oder es wurde eine fehlerhafte Mailadresse hinterlegt. <br>
 
 <br>
-## Mein Unterricht
+## 2. Mein Unterricht
 
 ### Mein Kurs ist nirgends zu sehen
-Wird ein Kurs nicht bei "Mein Unterricht" angezeigt, ist er nicht vorhanden.<br>
-Um ihn anzulegen navigiert man in "Mein Unterricht" zu "Unterricht hinzufügen", wählt "Kursunterricht", fügt die nötigen Informationen ein und legt einen neuen Kurs an.
+Wird ein Kurs nicht bei "Mein Unterricht" angezeigt, ist er entweder nicht vorhanden oder du bist noch nicht als Lehrkraft dieses Kurses eingetragen.<br>
+
+[Kurs anlegen / beitreten](../Schritt_für_Schritt/mein_unterricht_hinzufügen.md#22-in-der-notentabelle){ .md-button }
 
 ### Kurszuordnung von SuS nicht möglich
 !!! danger ""
@@ -49,5 +50,5 @@ Um ihn anzulegen navigiert man in "Mein Unterricht" zu "Unterricht hinzufügen",
 ### Ich habe einen Kurs versehentlich gelöscht
 Kurse können nur vom Admin gelöscht werden.<br>
 Wenn du bei "Mein Untericht" auf das "X" bei einem Kurs geklickt hast, hast du den Kurs nur verlassen. <br>
-Alle vergebenen Noten bleiben erhalten, du kannst dem Kurs einfach neu "beitreten".
+Alle vergebenen Noten bleiben erhalten, du kannst dem Kurs [einfach neu beitreten](../Schritt_für_Schritt/mein_unterricht_hinzufügen.md#22-in-der-notentabelle).
 

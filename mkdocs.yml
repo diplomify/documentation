@@ -10,11 +10,18 @@ theme:
     - navigation.expand
     - navigation.top
     - navigation.sections
+    - navigation.footer
    
   font: false   
 
 extra_css:
   - stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/mastodon
+      link: https://fosstodon.org/@squidfunk
+      name: squidfunk on Fosstodon
 
 markdown_extensions:
   - attr_list
@@ -52,20 +59,24 @@ nav:
       - 'Versetzungswarnungen': 'Anleitungen/Schritt_für_Schritt/Versetzungswarnungen.md'
     - 'Klassenübersicht':
       - 'Arbeits- & Sozialverhalten': 'Anleitungen/Schritt_für_Schritt/Arbeits-_&_Sozialverhalten.md'
+      - 'Die Checkliste': 'Anleitungen/Arbeitsbereiche/checkliste.md'
       - 'Dich selbst als Klassenleitung eintragen': 'Anleitungen/Schritt_für_Schritt/Dich_selbst_als_Klassenleitung_eintragen.md'
+      - 'Dienste zuweisen': 'Anleitungen/Schritt_für_Schritt/Dienste.md'
       - 'Fehltage': 'Anleitungen/Schritt_für_Schritt/Fehltage.md'
       - 'Kolleg*innen erinnern': 'Anleitungen/Schritt_für_Schritt/Kolleg*innen_erinnern.md'
+      - 'Zeugniskonferenz': 'Anleitungen/Schritt_für_Schritt/Zeugniskonferenz.md'
       - 'Zeugnisdaten ändern': 'Anleitungen/Schritt_für_Schritt/Zeugnisdaten_ändern.md'
       - 'Zeugnisse erstellen': 'Anleitungen/Schritt_für_Schritt/Zeugnisse_erstellen.md'
       - 'Zeugnisse zum Druck freigeben': 'Anleitungen/Schritt_für_Schritt/Zeugnisse_zum_Druck_freigeben.md'
       - 'Zeugnisse zuordnen': 'Anleitungen/Schritt_für_Schritt/Zeugnisse_zuordnen.md'
       - 'Zeugnisvorschau': 'Anleitungen/Schritt_für_Schritt/Zeugnisvorschau.md'
     - 'Mein Unterricht':
-      - 'Klassen & Kurse anlegen': 'Anleitungen/Schritt_für_Schritt/Klassen_und_Kurse_anlegen.md'     
+      - 'Klassen & Kurse anlegen': 'Anleitungen/Schritt_für_Schritt/Klassen_und_Kurse_anlegen.md'
+      - 'Unterricht zu "Mein Unterricht" hinzufügen': 'Anleitungen/Schritt_für_Schritt/mein_unterricht_hinzufügen.md'        
   
 
 
-  - 'Administration':
+ # - 'Administration':
     - 'Grundlegende ToDos': 'Anleitungen/Administration/Inbetriebnahme.md'
     - 'Admin-Startseite': 'Anleitungen/Administration/Übersicht.md'
     - 'Fächer & Fachgruppen verwalten': 'Anleitungen/Administration/Fächer_anlegen.md'
@@ -77,4 +88,11 @@ nav:
     - 'Versetzungswarnungen': 'Anleitungen/Administration/Versetzungswarnungen_schulweit_drucken.md'
     - 'DaNis-Export': 'Anleitungen/Administration/Danisexport.md'
 
+  - 'Showroom':
+    - 'Zeugnisse': 'showroom/zeugnisse.md'
+
+  - 'Changelog':  
+    - 'Letzte Änderungen': 'Latest Changes/changes.md'
   
+
+

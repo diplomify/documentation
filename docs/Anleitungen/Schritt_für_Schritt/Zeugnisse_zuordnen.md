@@ -15,6 +15,5 @@ hide:
 1. Wähle den Reiter "Zeugnisse".
 2. Ordne die Zeugnisse per Häkchen zu.
 <br><br>
-!!! tip ""
-    :material-lightbulb-outline:{ .icon_green_large } 
+!!! note ""
     Ein Klick auf die Spaltenüberschrift der Tabelle setzt alle Häkchen in dieser Spalte.

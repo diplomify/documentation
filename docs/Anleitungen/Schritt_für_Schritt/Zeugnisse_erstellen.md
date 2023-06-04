@@ -32,8 +32,7 @@ Diese Datei kannst du drucken oder herunterladen.
     **Was kann schiefgehen?**
     ![inactive](../../img/09_Misc/report_inactive.png){ align=right }
     <br> <br> <br>
-    Zeugnisse können erst erstellt werden, wenn eine Zeugniskonferenz sattgefunden hat.<br>
-    In der Konferenz wird der Versetzungsstatus festgelegt, erst danach kann ein Zeugnis erstellt werden.
+    Zeugnisse für die ganze Klasse können erst erstellt werden, wenn eine Zeugniskonferenz sattgefunden hat.<br>
 
 !!! danger ""
     Vergiss nicht den separaten Browser-Tab wieder zu schließen. Er bleibt offen einsehbar, auch wenn du dich bei Diplomify abmeldest.

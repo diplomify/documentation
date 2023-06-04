@@ -14,3 +14,5 @@ hide:
 1. Aktiviere den Reiter "Schüler"
 2. Klicke auf das Datum, das du ändern möchtest.
 3. Beende die Eingabe mit ++enter++
+
+Die geänderten Daten werden nun auf dem entsprechenden Zeugnis angezeigt.

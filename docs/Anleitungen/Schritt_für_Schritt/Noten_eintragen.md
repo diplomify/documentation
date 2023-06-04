@@ -27,7 +27,6 @@ Es gibt mehrere Möglichkeiten Noten einzugeben:
 ![Bewertungstabelle](../../img/quick_start/bewertungsuebersicht.png){ .img-norm } 
 
 Die Bewertungsübersicht öffnet sich direkt nach dem Login und bietet dir die umfangreichsten Möglichkeiten bei der Noteneingabe.
-Hier werden standardmäßig die Noten eingetragen.
 ---
 ### 1.1 Noten eingeben
 
@@ -37,8 +36,10 @@ Hier werden standardmäßig die Noten eingetragen.
 3. Drücke ++tab++ , um zur nächsten Note in deinem Fach zu springen.
 4. Drücke ++enter++ , um die Eingabe abzuschließen.
 
-!!! note ""
-    Die Notentabelle speichert deine Eingaben automatisch.
+
+:fontawesome-solid-thumbs-up:{ .success-contrast } **Die Notentabelle speichert deine Eingaben automatisch.**{ .success-contrast }
+<br>
+
 ---
 ### 1.2 Was bedeuten die Notenanhänge?
 
@@ -90,7 +91,7 @@ Zu der Einzelfachansicht gelangst du, indem du auf den Fächernamen in der Bewer
 
 Falls ein Notensprung vorliegt, muss eine Begründung eingegeben werden. Du erkennst die Schüler/innen mit Notensprung an dem roten Punkt hinter dem Namen.
 Sobald eine Notenbegründung eingegeben wurde, wird der Punkt grün.<br>
-Achtung: Diplomify überprüft nicht die Qualität der Eingaben. Sobald eine beliebige Zeichenfolge eingetragen und gespeichert wurde, schaltet der Indikator auf grün.
+Achtung: Diplomify überprüft nicht die Qualität der Eingaben.
 
 <!-- !!! intralink ""
     Mehr Informationen zur Einzelfachansicht findest du bei den [**Arbeitsbereichen**](../Arbeitsbereiche/Bewertungsuebersicht.md) -->
@@ -108,7 +109,7 @@ Zur Schüleransicht gelangst du durch einen Klick auf den Schülernamen in der N
     Für die beste Benutzererfahrung empfehlen wir aber die Notenübersicht oder die Einzelfachansicht.
 
 ### 3.1 Noten eintragen
-Das aktuelle schuljahr wird dirket unter den Stammdaten des/der Schüler/in angezeigt.
+Das aktuelle Schuljahr wird direkt unter den Stammdaten des/der Schüler/in angezeigt.
 
 1. Klicke die gewünschte Note an und trage deine Note ein.
 2. Beende die Eingabe mit ++enter++

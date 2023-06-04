@@ -15,4 +15,4 @@ hide:
 1. Öffne die Checkliste
 2. Klicke auf den Mail-Button oben in der Mitte.
 
-Dein Kollegium erhält jetzt eine Mail, mit Informationen zu fehlenden Noten in deiner Klasse.
+Dein Kollegium erhält jetzt eine Mail mit Informationen zu fehlenden Noten in deiner Klasse.

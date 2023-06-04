@@ -18,7 +18,7 @@ hide:
 !!! warning ""
     **Was kann schiefgehen?**
 
-    Die Zeugnisvorschau wird nur angezeigt, wenn dem/der entsprechenden Schüler/in ein [Zeugnis zugeordnet](../Schritt_für_Schritt/Zeugnisse_zuordnen.md) wurde **und** mindestens das [Av/Sv bewertet](../Schritt_für_Schritt/Arbeits-_&_Sozialverhalten.md) wurde.
+    Die Zeugnisvorschau wird nur angezeigt, wenn dem/der entsprechenden Schüler/in ein [Zeugnis zugeordnet](../Schritt_für_Schritt/Zeugnisse_zuordnen.md) wurde.
 
 !!! danger ""
-    Technischist es möglich schon hier Zeugnisse zu drucken, wir empfehlen aber den offziellen [Zeugnisdruck](../Schritt_für_Schritt/Zeugnisse_erstellen.md), der erst nach der duchgeführten konferenz erfolgt.
+    Technischist es möglich schon hier Zeugnisse zu drucken, wir empfehlen aber den offziellen [Zeugnisdruck](../Schritt_für_Schritt/Zeugnisse_erstellen.md), der erst nach der duchgeführten Konferenz erfolgt.

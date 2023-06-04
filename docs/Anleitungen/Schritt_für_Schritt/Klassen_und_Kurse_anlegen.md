@@ -7,7 +7,7 @@ hide:
 
 !!! note ""
     **Warum muss ich das überhaupt machen?**<br>
-    Wenn Deine Schule Diplomify mit einer Verwaltungssoftware wie WebUntis verbunden hat, findest du hier automatisch deinen Unterricht. - Keine weiteren Handlungen nötig.<br> <br>
+    Wenn deine Schule Diplomify mit einer Verwaltungssoftware wie WebUntis verbunden hat, findest du hier automatisch deinen Unterricht. - Keine weiteren Handlungen nötig.<br> <br>
     Wenn nicht, kannst du deinen eigenen Unterricht für das aktuelle Halbjahr anlegen, um einen besseren Überblick über deine bereits vergebenen Noten zu bekommen und schneller jene Schüler*innen zu bewerten, die du unterrichtest.
     <br>
     Standardmäßig werden so auch Kurse und Profile angelegt.
@@ -37,9 +37,9 @@ Klicke nun auf der Seite "Mein Unterricht" oben rechts auf "Unterricht hinzufüg
 
 Wenn du Unterricht für eine ganze Klasse anlegen möchtest (z.B. Deutsch), wähle die entsprechende Klasse und füge dann alle Schüler*innen dieser Klasse hinzu.
 
-Der Unterricht wird nun angelegt und dir auf der Seite "Mein Unterricht" angezeigt. Von hier aus kannst du schnell in die Bewertungsansicht wechseln. Klicke dazu einfach bei dem entsprechenden Unterricht auf "bewerten"
+Der Unterricht wird nun angelegt und dir auf der Seite "Mein Unterricht" angezeigt. Von hier aus kannst du schnell in die Bewertungsansicht wechseln. Klicke dazu einfach bei dem entsprechenden Unterricht auf "bewerten".
 
-Um angelegten Klassenunterricht umzubenennen,klicke einfach auf dessen Namen, benenne ihn um und bestätige mit ++return++
+Um angelegten Klassenunterricht umzubenennen,klicke einfach auf dessen Namen, benenne ihn um und bestätige mit ++return++.
 <br>
 <br>
 
@@ -59,7 +59,7 @@ Um angelegten Klassenunterricht umzubenennen,klicke einfach auf dessen Namen, be
 Mittels der Schülersuche innerhalb eines Kurses werden auch SuS gefunden, die diesem Kurs noch nicht zugeordnet sind.
 Durch einen Klick auf das "Plus" werden die gewünschten SuS dem Kurs hinzugefügt.<br>
 
-![SuS hinzufügen](/img/02_Schritt_für_Schritt/schuelersuche_kurs.png)
+![SuS hinzufügen](/img/02_Schritt_für_Schritt/schuelersuche_kurs.png){ .image }
 
 <br>
 

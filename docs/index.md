@@ -20,11 +20,11 @@ hide:
         <img class="off-glb img-x-small" src="./img/assets/icons/finish.png">
         <span class="text-standard center">Einfache Erklärungen typischer Aufgaben - Schritt für Schritt.</span> 
     </a>
-        <a class="category" href="/Anleitungen/Administration/%C3%9Cbersicht/">
+    <!--    <a class="category" href="/Anleitungen/Administration/%C3%9Cbersicht/">
         <h2 class="center">Administration</h2>
         <img class="off-glb img-x-small" src="./img/assets/icons/cogs.png">
         <span class="text-standard center">Der Maschinenraum von Diplomify - alles, was du darüber wissen musst.</span>
-    </a>
+    </a> -->
 </div>
 </section>
 <br>
