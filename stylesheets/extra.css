@@ -279,6 +279,9 @@ background-color: #F8F9FA;
     margin: 0;
 }
 
+.small {
+    font-size: smaller;
+}
 
 /* ::::::::::::: Images ::::::::::::: */
 
@@ -522,6 +525,11 @@ table {
 
 .mt-2 {
     margin-top: 2rem;
+}
+
+.mx-1 {
+    margin-left: .25rem;
+    margin-right: .25rem;
 }
 
 .my-1 {
