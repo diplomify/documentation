@@ -24,6 +24,7 @@ hide:
 	*	bei den Bemerkungen zu jedem Schüler können nun Notizen hinterlegt werden, die in der Zeugniskonferenz angezeigt werden
 	*	Smart-Floskel “Versetzung ist gefährdet“ erlaubt schnelles Hinzufügen von Versetzungsbemerkungen im 2. Hj.
 	*	in der Fehltag-Tabelle lässt sich logischer mit Tab navigieren (Fehltage Schüler 1 > unentschuldigt Schüler 1 > Fehltage Schüler 2 > unentschuldigt Schüler 2 > usw.)
+	*	"Konferenz starten" jetzt an präsenterer Stelle leichter zu finden
 
 	###Notentabelle
 	*	Fächer, die nur im ersten Halbjahr unterrichtet wurden, werden in der Bewertungstabelle angezeigt
@@ -40,7 +41,6 @@ hide:
 
 	###Diverses
 	*	im Nutzerbereich ist nun eine Schülersuche, die direkt zur Schüler-Einzelansicht führt
-	*	"Konferenz starten" jetzt an präsenterer Stelle leichter zu finden
 	*	diverse Verbesserungen in UI und Stabilität
 
 	###Technisches
