@@ -527,6 +527,11 @@ table {
     margin-top: 2rem;
 }
 
+.mx-1 {
+    margin-left: .25rem;
+    margin-right: .25rem;
+}
+
 .my-1 {
     margin: 1rem 0;
 }
