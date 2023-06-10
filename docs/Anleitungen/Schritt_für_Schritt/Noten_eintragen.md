@@ -27,6 +27,7 @@ Es gibt mehrere Möglichkeiten Noten einzugeben:
 ![Bewertungstabelle](../../img/quick_start/bewertungsuebersicht.png){ .img-norm } 
 
 Die Bewertungsübersicht öffnet sich direkt nach dem Login und bietet dir die umfangreichsten Möglichkeiten bei der Noteneingabe.
+
 ---
 ### 1.1 Noten eingeben
 
