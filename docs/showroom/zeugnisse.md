@@ -7,7 +7,7 @@ hide:
 
 
 Die hier dargestellten Zeugnisse sind Beispiele. <br>
-Grundsätzlich sind alle Zeugnisse per anpassbar und können individuell auf Ihre Schule zugeschnitten werden. <br>
+Grundsätzlich sind alle Zeugnisse anpassbar und können individuell auf Ihre Schule zugeschnitten werden. <br>
 Sie können sich hier einen Eindruck darüber verschaffen, welche Zeugnisse aktuell mit Diplomify erstellt werden können. <br>
 
 ### Prinzipiell lassen sich - abhängig von der Schulform - folgende Zeugnisvarianten erstellen:
