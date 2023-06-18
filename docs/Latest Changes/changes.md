@@ -7,7 +7,7 @@ hide:
 
 !!! box ""
 
-	##17.06.2023 
+	##17.06.2023 - Hot Requests
 
 	*	Filter für Floskelkategorien
 	*	Warnung, falls Lehrkräfte ohne Klassenleitungsstatus in der Klassenübersicht Av/Sv eintragen - statt in ihrem eigenen Unterricht.
