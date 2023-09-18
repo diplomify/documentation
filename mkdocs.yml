@@ -72,17 +72,19 @@ nav:
 
 
 
-      # - 'Administration':
+  - 'Administration':
+      - 'Admin-Startseite': 'Anleitungen/Administration/Übersicht.md'
+      - 'Rechte vergeben': 'Anleitungen/Administration/Rechte_vergeben.md' 
       #- 'Grundlegende ToDos': 'Anleitungen/Administration/Inbetriebnahme.md'
-      #- 'Admin-Startseite': 'Anleitungen/Administration/Übersicht.md'
-      #- 'Fächer & Fachgruppen verwalten': 'Anleitungen/Administration/Fächer_anlegen.md'
-      #- 'Schuljahre anlegen': 'Anleitungen/Administration/Schuljahre_anlegen.md'
-      #- 'Termine anlegen': 'Anleitungen/Administration/Termine_anlegen.md'
+      - 'Fächer & Fachgruppen verwalten': 'Anleitungen/Administration/Fächer_anlegen.md'
+      - 'Schuljahre anlegen': 'Anleitungen/Administration/Schuljahre_anlegen.md'
+      - 'Termine anlegen': 'Anleitungen/Administration/Termine_anlegen.md'
       #- 'Import': 'Anleitungen/Administration/Import.md'
-      #- 'Schüler und Klassen verwalten': 'Anleitungen/Administration/Schüler_und_Klassen_verwalten.md'
-      #- 'Backups': 'Anleitungen/Administration/Backup.md'
-      #- 'Versetzungswarnungen': 'Anleitungen/Administration/Versetzungswarnungen_schulweit_drucken.md'
-      #- 'DaNis-Export': 'Anleitungen/Administration/Danisexport.md'
+      - 'Schüler und Klassen verwalten': 'Anleitungen/Administration/Schüler_und_Klassen_verwalten.md'
+      - 'Backups': 'Anleitungen/Administration/Backup.md'
+      - 'Versetzungswarnungen': 'Anleitungen/Administration/Versetzungswarnungen_schulweit_drucken.md'
+      - 'DaNis-Export': 'Anleitungen/Administration/Danisexport.md'
+      - 'Integrationen': 'Anleitungen/Administration/Integrationen.md'
 
   - 'Showroom':
       - 'Zeugnisse': 'showroom/zeugnisse.md'

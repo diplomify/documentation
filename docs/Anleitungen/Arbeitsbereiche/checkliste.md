@@ -3,7 +3,7 @@ hide:
   - footer
 ---
 
-![Checkliste](../../../img/03_Arbeitsbereiche/checkliste.png){ .img-head }
+![Checkliste](../../img/03_Arbeitsbereiche/checkliste.png){ .img-head }
 
 Die Checkliste gibt Klassenlehrkräften eine Reihe von Informationen und Einstellungsmöglichkeiten.
 

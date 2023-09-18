@@ -21,7 +21,7 @@ Welche Daten jeweils importiert werden können, zeigen die Tabellen. <br>
 | Geburtsdatum          |:material-check-bold:{ .success }  |:material-check-bold: { .success }           |
 | Geburtsort            |:material-check-bold:{ .success }  |nicht verfügbar { .danger }                  |
 | Geschlecht            |:material-check-bold:{ .success }  |:material-check-bold: { .success }           |
-| Ausfnahmedatum        |:material-check-bold:{ .success }  |:material-check-bold: { .success }           |
+| Aufnahmedatum         |:material-check-bold:{ .success }  |:material-check-bold: { .success }           |
 | Klasse                |:material-check-bold:{ .success }  |:material-check-bold: { .success }           |
 | Klasse-ID             |:material-check-bold:{ .success }  |:material-check-bold: { .success }           |
 | Schüler-ID            |:material-check-bold:{ .success }  |:material-check-bold: { .success }           |
@@ -53,9 +53,6 @@ Diese können aber leicht von den entsprechenden KuK angelegt werden.
  - [CSV-Datei aus DaNis exportieren...](Danisexport.md) <br>
     Beispiel [ansehen](../../img/01_Administration/schueler_csv_beispiel.png) oder [herunterladen](../../files/schueler_csv_beispiel.csv)
 
-**Durchführung**
-
-Navigiere zu 
 
 <br>
 ### CSV-Lehrerimport (Vorbereitung)
@@ -84,7 +81,9 @@ Die CSV-Datei für den Schülerimport **muss** folgende Spalten enthalten:
 
 !!! success ""
     Eine Datei mit diesen Eigenschaften [kann mit IServ](../../img/01_Administration/lehrer_iserv.gif) erstellt werden. (minimale Nachbearbeitung nötig)
-
     
+<br>
+## WebUntis-Import
+... Der Artikel wird gerade überarbeitet ...
 
 

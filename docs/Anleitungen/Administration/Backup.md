@@ -40,7 +40,7 @@ Ist das Backup erstellt, erscheint es im Bereich "Backups"<br><br>
 
 ![Image title](./../../img/01_Administration/backup_restore.png){ .img-head }
 
-1. Wähle das gweünschte Backup aus der Liste und drücke den "Restore Button" 
+1. Wähle das gewünschte Backup aus der Liste und drücke den "Restore Button" 
 2. Bestätige die Sicherheitsinformation
 
 Das Backup wir nun wiederhergestellt.Das dauert etwa 2 Minuten. Ggf. muss die Seute neu geladen werden. <br>

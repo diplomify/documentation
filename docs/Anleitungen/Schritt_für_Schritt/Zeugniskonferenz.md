@@ -3,11 +3,11 @@ hide:
   - footer
 ---
 
-![Konferenz](../../../img/02_Schritt_für_Schritt/konferenz.png){ .img-head }
+![Konferenz](../../img/02_Schritt_für_Schritt/konferenz.png){ .img-head }
 
 !!! note ""
     Um die Konferenz zu starten, klicke auf "Zeugniskonferenz starten/fortsetzen" in der Klassenübersicht:<br>
-    ![Konferenz](../../../img/02_Schritt_für_Schritt/konferenz_starten.png){ .image }
+    ![Konferenz](../../img/02_Schritt_für_Schritt/konferenz_starten.png){ .image }
 
 ## 1. Die Konferenz vorbereiten
 

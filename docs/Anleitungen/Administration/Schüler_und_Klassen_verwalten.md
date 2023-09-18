@@ -67,7 +67,7 @@ Weitere Informationen erhalten Sie im Bereich [**Import**](../../Anleitungen/Adm
 !!! danger ""
     Wenn Schüler*innen gelöscht werden, werden auch sämtliche Zeugnisdaten dieser Person aus allen Schuljahren entfernt.<br><br>
     Die Löschung kann nicht rückgängig gemacht werden. <br>
-    (Es sei denn, es wurde ein [**Backup**](../../Anleitungen/Adminstration/Backup.md) angelegt.)
+    (Es sei denn, es wurde ein [**Backup**](../../Anleitungen/Administration/Backup.md) angelegt.)
 
 <br>
 ## Klassen verwalten
@@ -106,7 +106,7 @@ Diplomify behandelt in jedem Schulhalbjahr alle Klassen eigenständig. Sie könn
 !!! danger ""
     Sobald der oder die letzte Schüler*in aus der Klasse entfernt wurde, wird die Klasse unwiederbringlich gelöscht.
     <br>
-    Lege vor der Arbeit an den Klassen ein [**Backup**](../../Anleitungen/Adminstration/Backup.md) an.
+    Lege vor der Arbeit an den Klassen ein [**Backup**](../../Anleitungen/Administration/Backup.md) an.
 
 <br>
 

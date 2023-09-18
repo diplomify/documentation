@@ -4,14 +4,14 @@ hide:
 ---
 
 
-![Diensteübersicht](../../../img/02_Schritt_für_Schritt/dienste.png){ .img-head }
+![Diensteübersicht](../../img/02_Schritt_für_Schritt/dienste.png){ .img-head }
 
 !!! note ""
     **Warum muss ich das überhaupt machen?**<br>
     Üblicherweise bekommen Schüler*innen, die einen Klassendienst übernommen haben, auf ihrem Zeugnis eine entsprechende Bemerkung in das Feld "sonstige Bemerkungen". <br>
     Wenn Dienste zugewiesen werden, wird bei dem Kind an diesem Feld ein Bemerkungsvorschlag eingeblendet.
     <br><br>
-    ![Dienste-Floskeln](../../../img/02_Schritt_für_Schritt/dienste_floskeln.gif){ .image }
+    ![Dienste-Floskeln](../../img/02_Schritt_für_Schritt/dienste_floskeln.gif){ .image }
     <br><br>
 
     Dieser Vorschlag wird zentral vom Administrator angelegt und gilt einheitlich schulweit für den entsprechenden Dienst. <br>
@@ -24,7 +24,7 @@ hide:
 2. Klicke nun in dem Menü auf "Dienste"<br>
 
 Hier können nun über "Hinzufügen" weitere Dienste zugewiesen werden. <br>
-![Diensteübersicht](../../../img/02_Schritt_für_Schritt/dienste_zuweisen.png){ .image }
+![Diensteübersicht](../../img/02_Schritt_für_Schritt/dienste_zuweisen.png){ .image }
 
 Um Zuweisungen zu löschen, einfach auf den Papierkorb in der entsprechenden Zeile klicken. <br>
 (Vor dem Löschen erfolgt eine Bestätigungsabfrage)

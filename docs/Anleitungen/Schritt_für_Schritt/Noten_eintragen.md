@@ -100,7 +100,7 @@ Achtung: Diplomify überprüft nicht die Qualität der Eingaben.
 
 ## 3. Schüleransicht
 
-![Schüleransicht](../../../img/02_Schritt_für_Schritt/noten/schueleransicht.png){ .img-norm } 
+![Schüleransicht](../../img/02_Schritt_für_Schritt/noten/schueleransicht.png){ .img-norm } 
 
 Zur Schüleransicht gelangst du durch einen Klick auf den Schülernamen in der Notentabelle.
 
