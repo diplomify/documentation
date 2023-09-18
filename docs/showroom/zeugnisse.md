@@ -13,10 +13,11 @@ Sie können sich hier einen Eindruck darüber verschaffen, welche Zeugnisse aktu
 ### Prinzipiell lassen sich - abhängig von der Schulform - folgende Zeugnisvarianten erstellen:
 
 :material-check-bold:{ .success }  normale Versetzungszeugnisse für Grund-, Haupt-, und Realschulen, sowie Gymnasien bis Klasse 10 <br>
-:material-check-bold:{ .success }  alle Abschlusszeugnisse für Hauptschulen und Realschulen (inkl. Färderschulabschluss nach der 9. Klasse Hauptschule)<br>
+:material-check-bold:{ .success }  alle Abschlusszeugnisse für Hauptschulen und Realschulen (inkl. Förderschulabschluss nach der 9. Klasse Hauptschule)<br>
 :material-check-bold:{ .success }  Zwischenzeugnisse<br>
 :material-check-bold:{ .success }  Abgangszeugnisse<br>
 :material-check-bold:{ .success }  Leistungsberichte im Zeugnislayout (als Notenzeugnisse für Sprachlernschüler*innen)<br>
+:material-check-bold:{ .success }  Beliebige Arten von Berichtszeugnissen in jeder Schulform<br>
 
 Alle Zeugnisse können mit den schuleigenen Logos versehen und in Design & Layout an ihre Schule angepasst werden.
 
