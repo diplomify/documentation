@@ -33,12 +33,12 @@ hide:
 <section>
 <h4>Unsere Empfehlungen</h4>
 <div class="space-around">
-  <a href="./img/quick_start/bewertungsuebersicht.png" target="_blank">
+  <!-- <a href="./img/quick_start/bewertungsuebersicht.png" target="_blank">
       <figure>
           <figcaption class="img-caption">Bewertungsübersicht</figcaption>
           <img class="image scale" src="./img/quick_start/bewertungsuebersicht.png" alt="Mein Unterricht" width="300" height="">
       </figure>
-  </a>
+  </a> -->
 
   <a href="./img/quick_start/klassenuebersicht.png" target="_blank">
       <figure>
