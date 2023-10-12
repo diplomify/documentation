@@ -35,15 +35,15 @@ Bei Fächern mit abweichendem Anforderungsniveau wird das gewählte Niveau auf d
 
 ## Fächervariablen
 
-Interessen, Fähigkeiten, Fertigkeiten - interessen
+Interessen, Fähigkeiten, Fertigkeiten - "interessen"
 
-Sprechen und Zuhören - sprechen
-Lesen und mit Texten umgehen - lesen
-Schreiben, Texte erfassen - schreiben
+Sprechen und Zuhören - "sprechen"
+Lesen und mit Texten umgehen - "lesen"
+Schreiben, Texte erfassen - "schreiben"
 
-Zahlen und Operationen - zahlen
-Größen und Messen - messen
-Raum und Form - raum
+Zahlen und Operationen - "zahlen"
+Größen und Messen - "messen"
+Raum und Form - "raum"
 
 
 ## Fachgruppen verwalten

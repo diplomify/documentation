@@ -126,4 +126,4 @@ Diplomify behandelt in jedem Schulhalbjahr alle Klassen eigenständig. Sie könn
 5. Füge sie mit ![add](../../img/09_Misc/sus_hinzufügen_button.png){ .img-small-inline } der Klasse hinzu.
 
 !!! warning ""
-    Bitte bedenke, dass SuS die per Hand erstellt wurden, zwar der Klasse und dem Klassenunterricht zugeordnet ist, nicht aber den Kursen. <br>
+    Bitte bedenke, dass SuS, die per Hand erstellt wurden, zwar der Klasse und dem Klassenunterricht zugeordnet sind, nicht aber den angelegten Kursen. <br>

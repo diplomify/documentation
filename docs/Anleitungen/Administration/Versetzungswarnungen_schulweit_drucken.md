@@ -3,8 +3,8 @@ hide:
   - footer
 ---
 
-Navigiere dazu im Adminbereich in "Schuljahre", wähle das passende Halbjahr aus und klicke auf "Halbjahr bearbeiten".
-Anschließend wählst du in der Seitenleiste "Versetzungswarnungen drucken"
+Navigiere dazu im Adminbereich in "Berichte" und wähle das passende Halbjahr aus.
+Der Druck wird über "Versetzungswarnungen drucken ausgelöst."
 
 !!! warning ""
     Versetzungswarnungen können nur im 2. Halbjahr ausgesprochen werden. Im ersten Halbjar wird der Button nicht angezeigt.

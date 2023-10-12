@@ -85,6 +85,7 @@ nav:
       - 'Versetzungswarnungen': 'Anleitungen/Administration/Versetzungswarnungen_schulweit_drucken.md'
       - 'DaNis-Export': 'Anleitungen/Administration/Danisexport.md'
       - 'Integrationen': 'Anleitungen/Administration/Integrationen.md'
+      - 'ILE-Dokumentationen': 'Anleitungen/Administration/ILE.md'
 
   - 'Showroom':
       - 'Zeugnisse': 'showroom/zeugnisse.md'

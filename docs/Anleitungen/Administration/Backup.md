@@ -43,14 +43,10 @@ Ist das Backup erstellt, erscheint es im Bereich "Backups"<br><br>
 1. Wähle das gewünschte Backup aus der Liste und drücke den "Restore Button" 
 2. Bestätige die Sicherheitsinformation
 
-Das Backup wir nun wiederhergestellt.Das dauert etwa 2 Minuten. Ggf. muss die Seute neu geladen werden. <br>
+Das Backup wir nun wiederhergestellt. Das dauert etwa 2 Minuten. Ggf. muss die Seite neu geladen werden. <br>
 Im Anschluss wird es im Bereich "Wiederherstellungen" angezeigt.
 
 
 !!! danger ""
     Während des Zurücksetzens wird Diplomify temporär nicht für normale Benutzbar verfügbar sein (Wartungsmodus).<br> 
     Sie können diesen Vorgang nicht rückgängig machen und sollten während des Prozesses unter keinen Umständen weitere Änderungen am Datensatz vornehmen.
-
-!!! danger ""
-    Werden zwei Backups angelegt und anschließend das zuerst angelegte Backup wiederhergstellt, ist das andere Backup nicht mehr verfügbar.<br>
-    Grund: Es wurde ein Systemstand wiederhergestellt, an dem das andere Backup noch nicht vorhanden war.
