@@ -47,7 +47,7 @@ plugins:
 nav:
   - 'Startseite': 'index.md'
 
-  - 'Häufig gefragt': 'Anleitungen/FAQ/collection.md'
+  #- 'Häufig gefragt': 'Anleitungen/FAQ/collection.md'
 
   - 'Schritt für Schritt Anleitungen':
       - 'Bewerten':
