@@ -80,7 +80,9 @@ Die CSV-Datei für den Schülerimport **muss** folgende Spalten enthalten:
 
 
 !!! success ""
-    Eine Datei mit diesen Eigenschaften [kann mit IServ](../../img/01_Administration/lehrer_iserv.gif) erstellt werden. (minimale Nachbearbeitung nötig)
+    Eine Datei mit diesen Eigenschaften **[kann mit IServ](../../img/01_Administration/lehrer_iserv.gif)** erstellt werden. <br><br>
+    In der exportierten Datei sollten nun einfach alle irrelevanten Spalten gelöscht werden.<br><br>
+    Anschließend kann der Import in Diplomify erfolgen.
     
 <br>
 ## WebUntis-Import
