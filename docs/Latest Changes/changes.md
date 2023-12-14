@@ -14,7 +14,7 @@ hide:
 	*	Import-Seite erlaubt jetzt Reload während Import (vorher Fehler-404)
 	*	WebUntis-Import überarbeitet (Zugriff auf Timetable-API)
 
-	###Zeugnisse & Konferenzen
+	###Zeugnisse
 	*	Zeugnisanpassungen an Erlass zum Januar 2024
 	*	Zeugnisse können kombiniert werden (z. B. Notenzeugnis + Anhang)
 	*	HTML der Zeugnisdateien kann direkt online editiert werden
