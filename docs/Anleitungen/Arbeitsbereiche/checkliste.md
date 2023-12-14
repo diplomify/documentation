@@ -19,32 +19,26 @@ Hier werden alle Fächer dargestellt, die in der Klasse unterrichtet werden - un
 An den Zahlen kann abgelesen werden, wie viele Noten vergeben wurden und wie viele Kinder zu diesem Unterricht gehören. <br>
 Ein Klick auf den Fächernamen führt zur Einzelfachbewertung.
 
-### 1.2 Arbeits und Sozialverhalten
-
-Hier wird angezeigt, wie viele Kinder eine Bewertung im Arbeits- und Sozialverhalten erhalten haben.
-!!! danger ""
-    Achtung: Hier kann nicht angezeigt werden, ob alle Abweichungsbegründungen eingegeben wurden.
-
-### 1.3 Zeugnisse: Versetzungsstatus
+### 1.2 Zeugnisse: Versetzungsstatus
 
 Zeugnisse vermitteln auch immer den Versetzungsstatus des dazugehörigen Kindes. Dieser muss daher bei jedem Zeugnis angegeben werden. <br>
 Das kann während der Konferenz geschehen, aber sinvoller ist es, diesen Status bereits in der Vorbereitung anzugeben. Standardmäßg steht der Status auf "versetzt".
 
-### 1.4 Zeugnisse durch Konferenz bestätigt
+### 1.3 Zeugnisse durch Konferenz bestätigt
 
 Sobald in der Zeugniskonferenz alle Zeugnisse begutachtet wurden, erfolgt hier die "erledigt"-Anzeige
 
-### 1.5 Zeugnisse zugeordnet
+### 1.4 Zeugnisse zugeordnet
 Prinzipiell kann jedes Kind ein speziell angepasstes Zeugnis bekommen. Daher müssen in jedem Halbjahr die vom Admin bereitgestellten Zeugnisse den Kindern zugeordnet werden. <br>
 Erst wenn alle Kinder Zeugnisse zugeordnet bekommen haben, füllt sich der grüne Balken. <br>
 
 [Zu Artikel "Zeugnisse zuordnen"](../Schritt_f%C3%BCr_Schritt/Zeugnisse_zuordnen.md){ .md-button }
 
-### 1.6 Klassenlehrer*innen
+### 1.5 Klassenlehrer*innen
 
 Hier werden die Lehrkräfte angezeigt, die als Klassenlehrkraft markiert sind.
 
-### 1.7 Zeugnisse als "fertig" markieren
+### 1.6 Zeugnisse als "fertig" markieren
 
 Sobald alle Zeugnisse durch die Konferenz beschlossen wurden, können sie [zum Druck freigegeben werden](#zeugnisse-druckbereit-melden). Ist das geschehen, wird hier "erledigt" angezeigt. 
 

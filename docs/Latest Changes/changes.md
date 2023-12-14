@@ -5,6 +5,49 @@ hide:
   - toc
 ---
 
+
+!!! box ""
+
+	##17.12.2023
+
+	###Import
+	*	Import-Seite erlaubt jetzt Reload während Import (vorher Fehler-404)
+	*	WebUntis-Import überarbeitet (Zugriff auf Timetable-API)
+
+	###Zeugnisse & Konferenzen
+	*	Zeugnisanpassungen an Erlass zum Januar 2024
+	*	Zeugnisse können kombiniert werden (z. B. Notenzeugnis + Anhang)
+	*	HTML der Zeugnisdateien kann direkt online editiert werden
+	*	Zeugnistemplates können mit Beschreibungen/Nachrichten für die Klassenlehrkräfte versehen werden
+
+	###Zeugniskonferenzen
+	*	Zeugniskonferenzen können nur noch von Klassenleitungen oder Admins gestartet werden
+	*	Zuschauermodus für Konferenzen 
+
+	### Zugriffsrechte/Sicherheit
+	*	umfangreiche Vergabe von Schreib- und Leserechten durch den Admin
+	*	Admins können Eingabezeiträume festlegen
+	*	Klassenleitungsanträge können vom Admin bestätigt/abgelehnt werden
+	*	Halbjahre sperrbar
+	*	Klassenleitungen können Rechte für Co-Klassenleitungen und ILE-Berechtigte anlegen
+	*	2-Faktor Authentifizierung über Authenticator-App oder e-Mail
+
+	###diverse Verbesserungen in UI und Stabilität
+	*	ILE-Bewertungen haben nun einen eigenen Bereich in der Klassenübersicht
+	*	Klick auf den Schülernamen führt nun überall zur Schülereinzelansicht
+	*	In der Schülereinzelansicht kann nun durch die gesamte Klasse geskippt werden
+	*	Av/Sv Bemerkungen der Klassenleitung werden in der Einzelfachansicht angezeigt
+	*	Auto-Save bei Noten- und Texteingaben ausgeweitet und mit Indikator versehen
+	*	Fächer können Faktoren für die Durchschnittsberechnung erhalten
+	*	Notentabelle kann nun von Noten- in Berichtsmodus geschaltet werden
+	*	"Unterricht anlegen" komplett redesigned (Workflow optimiert, Mehrfachzuweisungen ausgeschlossen)
+	*	Benutzername wird präsenter in der Willkommens-/Rücksetzungsmail angezeigt
+	*	Ist ein/e Schüler/in zwei Unterrichten mit der gleichen Zeugnisentsprechung zugeordnet, wird die vergebene Bewertung auf dem Zeugnis angezeigt. Sind beide Unterrichte bewertet, wird die Bewertung des Unterrichts mit der höheren Priorität angezeigt. 
+	<br>
+	<br>
+
+
+
 !!! box ""
 
 	##17.06.2023 - Hot Requests
@@ -53,3 +96,5 @@ hide:
 	###Technisches
 	*	Im Hintergrund überwacht nun ein Masterserver alle Diplomify Instanzen und meldet Auslastungsspitzen, heruntergefahrene Server oder andere Probleme.
 	*	Ein neues Server-Verwaltungssystem erlaubt uns nun das flexible Erstellen oder Leistungsanpassungen bei vorhandenen Servern, sollte der Masterserver Leistungsprobleme melden. - Dabei läuft jede Instanz weiterhin auf dedizierten Servern in Deutschland.
+	<br>
+	<br>
