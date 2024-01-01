@@ -7,7 +7,7 @@ hide:
 <br><br>
 
 !!! note ""
-    **Warum muss ich das überhaupt machen?**<br>
+    **Warum muss ich das überhaupt wissen?**<br>
     Wenn deine Schule auf den Zeugnissen die Namen der Klassenlehrkraft darstellt, muss in der Klassenübersicht eine Klassenlehrkraft angegeben werden. 
 <br>
 **Wechsle dazu in die Klassenübersicht**

@@ -6,7 +6,7 @@ hide:
 ![Klasse_und_Kurse_anlegen](/img/02_Schritt_für_Schritt/Kurse_und_Klassen_anlegen.png){ .img-head }
 
 !!! note ""
-    **Warum muss ich das überhaupt machen?**<br>
+    **Warum muss ich das überhaupt wissen?**<br>
     Wenn deine Schule Diplomify mit einer Verwaltungssoftware wie WebUntis verbunden hat, findest du hier automatisch deinen Unterricht. - Keine weiteren Handlungen nötig.<br> <br>
     Wenn nicht, kannst du deinen eigenen Unterricht für das aktuelle Halbjahr anlegen, um einen besseren Überblick über deine bereits vergebenen Noten zu bekommen und schneller jene Schüler*innen zu bewerten, die du unterrichtest.
     <br>

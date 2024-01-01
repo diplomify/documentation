@@ -86,6 +86,7 @@ nav:
       - 'DaNis-Export': 'Anleitungen/Administration/Danisexport.md'
       - 'Integrationen': 'Anleitungen/Administration/Integrationen.md'
       - 'ILE-Dokumentationen': 'Anleitungen/Administration/ILE.md'
+      - 'Zeugnisse bearbeiten': 'Anleitungen/Administration/Zeugnisse_bearbeiten.md'
 
   - 'Showroom':
       - 'Zeugnisse': 'showroom/zeugnisse.md'

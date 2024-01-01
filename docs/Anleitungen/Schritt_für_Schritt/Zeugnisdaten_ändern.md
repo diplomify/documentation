@@ -6,7 +6,7 @@ hide:
 ![Zeugnisdaten](../../img/02_Schritt_für_Schritt/zeugnisdaten.png){ .img-head }
 <br><br>
 !!! note ""
-    **Warum muss ich das überhaupt machen?**<br>
+    **Warum muss ich das überhaupt wissen?**<br>
     Bei kurzfristigen Änderungen oder Zeugnisdruck außer der Reihe, hat der Admin möglicherweise keine Zeit, schnell die Daten zentral zu ändern. 
 <br>
 **Wechsle dazu in die Klassenübersicht**

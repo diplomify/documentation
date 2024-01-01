@@ -6,7 +6,7 @@ hide:
 ![Druckfreigabe](../../img/02_Schritt_für_Schritt/druckfreigabe.png){ .img-head }
 <br><br>
 !!! note ""
-    **Warum muss ich das überhaupt machen?**<br>
+    **Warum muss ich das überhaupt wissen?**<br>
     Möglicherweise übernimmt der Admin deiner Schule den Zeugnisdruck. Dann interessiert ihn natürlich, ob deine Zeugnisse druckbereit sind. 
 <br>
 **Wechsle dazu in die Klassenübersicht**

@@ -8,7 +8,7 @@ hide:
 
 !!! box ""
 
-	##Coming Soon
+	##17.12.2023
 
 	###Import
 	*	Import-Seite erlaubt jetzt Reload während Import (vorher Fehler-404)
@@ -16,9 +16,9 @@ hide:
 
 	###Zeugnisse
 	*	Zeugnisanpassungen an Erlass zum Januar 2024
-	*	Zeugnisse können kombiniert werden (z. B. Notenzeugnis + Anhang)
-	*	HTML der Zeugnisdateien kann direkt online editiert werden
-	*	Zeugnistemplates können mit Beschreibungen/Nachrichten für die Klassenlehrkräfte versehen werden
+	*	Zeugnisse können kombiniert werden (z. B. Notenzeugnis + Anhang) [(mehr Infos...)](../Anleitungen/Administration/Zeugnisse_bearbeiten.md#3-zeugnisse-kombinieren)
+	*	HTML der Zeugnisdateien kann direkt online editiert werden [(mehr Infos...)](../Anleitungen/Administration/Zeugnisse_bearbeiten.md#4-schnell-anderungen-am-template)
+	*	Zeugnistemplates können mit Beschreibungen/Nachrichten für die Klassenlehrkräfte versehen werden [(mehr Infos...)](../Anleitungen/Administration/Zeugnisse_bearbeiten.md#2-informationen-fur-lehrkrafte-hinterlegen)
 
 	###Zeugniskonferenzen
 	*	Zeugniskonferenzen können nur noch von Klassenleitungen oder Admins gestartet werden

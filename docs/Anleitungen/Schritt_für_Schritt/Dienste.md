@@ -7,7 +7,7 @@ hide:
 ![Diensteübersicht](../../img/02_Schritt_für_Schritt/dienste.png){ .img-head }
 
 !!! note ""
-    **Warum muss ich das überhaupt machen?**<br>
+    **Warum muss ich das überhaupt wissen?**<br>
     Üblicherweise bekommen Schüler*innen, die einen Klassendienst übernommen haben, auf ihrem Zeugnis eine entsprechende Bemerkung in das Feld "sonstige Bemerkungen". <br>
     Wenn Dienste zugewiesen werden, wird bei dem Kind an diesem Feld ein Bemerkungsvorschlag eingeblendet.
     <br><br>

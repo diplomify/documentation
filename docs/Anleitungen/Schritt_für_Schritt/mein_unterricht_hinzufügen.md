@@ -6,7 +6,7 @@ hide:
 ![Zeugnisdruck](../../img/02_Schritt_für_Schritt/mein_unterricht.png){ .img-head }
 
 !!! note ""
-    **Warum muss ich das überhaupt machen?**<br>
+    **Warum muss ich das überhaupt wissen?**<br>
     Natürlich kann zur Eingabe der Noten auch einfach die Notentabelle genutzt werden. Allerdings hat die Verwendung von "Mein Unterricht" einige Vorteile:<br>
         1. Dein Unterricht wird übersichtlich auf einer Seite angezeigt. <br>
         2. Die Klassenleitung und die Kolleg/innen wissen, dass ein bestimmtes Fach von dir unterrichtet wurde und müssen bei Rückfragen nicht auf "Spurensuche" gehen.<br>

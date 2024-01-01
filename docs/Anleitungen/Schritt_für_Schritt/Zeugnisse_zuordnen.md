@@ -6,7 +6,7 @@ hide:
 ![Zeugniszuordnung](../../img/02_Schritt_für_Schritt/zeugniszuordnung.png){ .img-head }
 <br><br>
 !!! note ""
-    **Warum muss ich das überhaupt machen?**<br>
+    **Warum muss ich das überhaupt wissen?**<br>
     Bevor die Zeugnisse gedruckt werden können, muss Diplomify wissen, welche Art von Zeugnis die einzelnen Schüler*innen bekommen sollen.<br>
     Ordne hier einfach alle Zeugnisse zu. Der Admin legt zentral jene Zeugnisse fest, zwischen denen du auswählen kannst. 
 <br>
