@@ -17,7 +17,7 @@ hide:
 1. **zum Herunterladen**: klicke auf den Dateinamen des derzeit verwendeten Templates
 2. **nach der Bearbeitung**: ziehe die hochzuladende Datei auf den Bereich wo "Keine ausgewählt" steht oder klicke auf "Datei auswählen", um die entsprechende Datei auf deinem Computer zu suchen.
 3. Speichern drücken
-3. **Zurücksetzen**: Achtung, hier wird der vorhandene Inhalt des Templates restlos entfernt. Diese Aktion ist nur durch Wiedereinspeilen eines Backups umkehrbar.
+3. **Zurücksetzen**: Achtung, hier wird der vorhandene Inhalt des Templates restlos entfernt. Diese Aktion ist nur durch Einspielen eines Backups umkehrbar.
 
 <br>
 <br>
@@ -27,10 +27,12 @@ hide:
 
 !!! note ""
     **Warum muss ich das überhaupt wissen?**<br>
-    Da die Zeugnistemplates hochgradig flexibel sind, können Adminstratoren Funktionen integrieren, die zum Beispiel zu automatischen Einträgen auf dem Zeugnis führen.
-    Um das kollegium über jene Funktionen zu informieren, können Admins hier Infos anlegen, die an den entsprechenden Feldern angezeigt werden. <br>
+    Da die Zeugnistemplates hochgradig flexibel sind, können Administratoren Funktionen integrieren, die zum Beispiel zu automatischen Einträgen auf dem Zeugnis führen.
+    Um das Kollegium über jene Funktionen zu informieren, können Admins hier Infos anlegen, die an den entsprechenden Feldern angezeigt werden. <br>
     Diese Infos beziehen sich immer nur auf das Zeugnis, das gerade bearbeitet wird. <br>
     **Ordnet eine Lehrkraft dieses Zeugnis einem Schüler zu**, erhält sie an den entsprechenden Feldern einen Info-Indikator und kann nach dem Draufklicken die Nachricht lesen.
+
+
 ![Info-Indikator](../../img/01_Administration/info_indikator.png){ .img-head }
 
 <br>
@@ -58,8 +60,8 @@ hide:
 ## 4. Schnell-Änderungen am Template
 !!! danger ""
     - Änderungen können nur per Hand rückgängig gemacht werden. <br>
-    - Die Änderungen wirken sich sofort auf alle Zeugnisse aus, die mit diesem Template erstellt werden. - Auch rückwirkend.<br>
-    - Wir empfehlen Änderungen hier nur mit ausrechenden HTML- und CSS-Kenntnissen.<br>
+    - Die Änderungen wirken sich sofort auf alle Zeugnisse aus, die mit diesem Template erstellt werden. - Auch in vergangenen Halbjahren.<br>
+    - Wir empfehlen Änderungen hier nur mit ausreichenden HTML- und CSS-Kenntnissen.<br>
 
 
 ![Admininfos](../../img/01_Administration/html_edit.png){ .img-head }

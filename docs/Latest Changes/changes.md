@@ -21,8 +21,8 @@ hide:
 	*	Zeugnistemplates können mit Beschreibungen/Nachrichten für die Klassenlehrkräfte versehen werden [(mehr Infos...)](../Anleitungen/Administration/Zeugnisse_bearbeiten.md#2-informationen-fur-lehrkrafte-hinterlegen)
 
 	###Zeugniskonferenzen
-	*	Zeugniskonferenzen können nur noch von Klassenleitungen oder Admins gestartet werden
-	*	Zuschauermodus für Konferenzen 
+	*	Zeugniskonferenzen können nur noch von Klassenleitungen oder Admins gestartet werden [(mehr Infos...)](../Anleitungen/Schritt_für_Schritt/Zeugniskonferenz.md#1-konferenzstart)
+	*	Zuschauermodus für Konferenzen [(mehr Infos...)](../Anleitungen/Schritt_für_Schritt/Zeugniskonferenz.md#3-zuschauermodus)
 
 	### Zugriffsrechte/Sicherheit
 	*	umfangreiche Vergabe von Schreib- und Leserechten durch den Admin
