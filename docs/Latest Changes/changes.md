@@ -25,7 +25,7 @@ hide:
 	*	Zuschauermodus für Konferenzen [(mehr Infos...)](../Anleitungen/Schritt_für_Schritt/Zeugniskonferenz.md#3-zuschauermodus)
 
 	### Zugriffsrechte/Sicherheit
-	*	umfangreiche Vergabe von Schreib- und Leserechten durch den Admin
+	*	umfangreiche Vergabe von Schreib- und Leserechten durch den Admin [(mehr Infos...)](../Anleitungen/Administration/Rechte_vergeben.md)
 	*	Admins können Eingabezeiträume festlegen
 	*	Klassenleitungsanträge können vom Admin bestätigt/abgelehnt werden
 	*	Halbjahre sperrbar
