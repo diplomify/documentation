@@ -3,7 +3,7 @@ hide:
   - footer
 ---
 !!! bread ""
-    Adminbereich > Zeugnisse | gewünschtes Zeugnis | Bearbeitungsmodus
+    Adminbereich > Zeugnisse > gewünschtes Zeugnis > Bearbeitungsmodus
 ![Templates editieren](../../img/01_Administration/reports_edit.png){ .img-head }
 
 ## 1. Zeugnistemplates herunter-/hochladen

@@ -26,10 +26,10 @@ hide:
 
 	### Zugriffsrechte/Sicherheit
 	*	umfangreiche Vergabe von Schreib- und Leserechten durch den Admin [(mehr Infos...)](../Anleitungen/Administration/Rechte_vergeben.md)
-	*	Admins können Eingabezeiträume festlegen
-	*	Klassenleitungsanträge können vom Admin bestätigt/abgelehnt werden
-	*	Halbjahre sperrbar
-	*	Klassenleitungen können Rechte für Co-Klassenleitungen und ILE-Berechtigte anlegen
+	*	Admins können Eingabezeiträume festlegen [(mehr Infos...)](../Anleitungen/Administration/Schuljahre_verwalten.md#eingabezeitraume-angeben)
+	*	Klassenleitungsanträge können vom Admin bestätigt/abgelehnt werden [(mehr Infos...)](../Anleitungen/Administration/klassenlehrerantrag.md)
+	*	Halbjahre sperrbar [(mehr Infos...)](../Anleitungen/Administration/Schuljahre_verwalten.md#halbjahr-sperren)
+	*	Klassenleitungen können Rechte für Co-Klassenleitungen und ILE-Berechtigte anlegen [(mehr Infos...)](../Anleitungen/Schritt_für_Schritt/Klassenleitung.md)
 	*	2-Faktor Authentifizierung über Authenticator-App oder e-Mail
 
 	###diverse Verbesserungen in UI und Stabilität

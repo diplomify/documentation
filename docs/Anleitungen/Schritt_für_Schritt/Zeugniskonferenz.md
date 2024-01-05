@@ -4,7 +4,7 @@ hide:
 ---
 
 !!! bread ""
-    Klassenübersicht | Zeugniskonferenz starten/fortsetzen
+    Klassenübersicht > Zeugniskonferenz starten/fortsetzen
 
 <!-- ![Konferenz](../../img/02_Schritt_für_Schritt/konferenz.png){ .img-head } -->
 

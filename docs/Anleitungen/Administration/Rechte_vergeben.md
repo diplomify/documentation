@@ -4,7 +4,7 @@ hide:
 ---
 
 !!! bread ""
-    Administrationsbereich | Konfiguration | Rechte
+    Administrationsbereich > Konfiguration > Rechte
 
 ![Rechte vergeben](/img/01_Administration/rechte.png){ .img-head }
 
@@ -123,16 +123,17 @@ Bei Bedarf können durch Klassen- oder System-Admins weitere Nutzer zu Klassenad
 <br>
 
 ## Gesperrte Halbjahre
-Sobald ein Halbjahr gesperrt wurde, kann (bis auf System-Adminstratoren) niemand mehr Änderungen an den eingetragenen Daten vornehmen.
+[Sobald ein Halbjahr gesperrt wurde](../../Anleitungen/Administration/Schuljahre_verwalten.md#halbjahr-sperren), kann (bis auf System-Adminstratoren) niemand mehr Änderungen an den eingetragenen Daten vornehmen.
 Um zumindest einen informierenden Blick zu ermöglichen, kann das Recht hier auf "Lesezugriff" gesetzt werden.
 Bei "Kein Zugriff" wird ein Info-Screen angezeigt, sobald jemand in ein geschlossenes Halbjahr wechselt.
 
 <br>
 
 ## Zugriff außerhalb der Eingabezeiträume
-Ist ein Halbjahr mit einem Start- und/oder Enddatum für die Eingabe versehen, wird jeder Login ausserhalb dieser Zeit auf eine Info-Seite umgeleitet.<br>
+[Ist ein Halbjahr mit einem Start- und/oder Enddatum für die Eingabe versehen](../../Anleitungen/Administration/Schuljahre_verwalten.md#eingabezeitraume-angeben), wird jeder Login ausserhalb dieser Zeit auf eine Info-Seite umgeleitet.<br>
 
 Die Eingabezeiträume können aber genutzt werden, um eine gestaffelte Eingabe zu ermöglichen. <br>
+
 So können mit der entsprechenden Rechtevergabe Klassenleitungen & Klassenadmins bereits vor dem Eingabestart Zugriff erhalten und ihre Klassen vorbereiten. Sobald dann der Eingabezeitraum gekommen ist, können alle Fachlehrer ebenfalls mit ihren Eingaben beginnen.
 
 <br>

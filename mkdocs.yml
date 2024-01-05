@@ -56,7 +56,7 @@ nav:
       - 'Klassenübersicht':
           - 'Arbeits- & Sozialverhalten': 'Anleitungen/Schritt_für_Schritt/Arbeits-_&_Sozialverhalten.md'
           - 'Die Checkliste': 'Anleitungen/Arbeitsbereiche/checkliste.md'
-          - 'Dich selbst als Klassenleitung eintragen': 'Anleitungen/Schritt_für_Schritt/Dich_selbst_als_Klassenleitung_eintragen.md'
+          - 'Klassenleitung': 'Anleitungen/Schritt_für_Schritt/Klassenleitung.md'
           - 'Dienste zuweisen': 'Anleitungen/Schritt_für_Schritt/Dienste.md'
           - 'Fehltage': 'Anleitungen/Schritt_für_Schritt/Fehltage.md'
           - 'Kolleg*innen erinnern': 'Anleitungen/Schritt_für_Schritt/Kolleg*innen_erinnern.md'
@@ -73,12 +73,12 @@ nav:
 
 
   - 'Administration':
-      - 'Admin-Startseite': 'Anleitungen/Administration/Übersicht.md'
+      #- 'Admin-Startseite': 'Anleitungen/Administration/Übersicht.md'
       - 'Rechte vergeben': 'Anleitungen/Administration/Rechte_vergeben.md' 
+      - 'Klassenleitungen festlegen': 'Anleitungen/Administration/klassenlehrerantrag.md'
       #- 'Grundlegende ToDos': 'Anleitungen/Administration/Inbetriebnahme.md'
       - 'Fächer & Fachgruppen verwalten': 'Anleitungen/Administration/Fächer_anlegen.md'
-      - 'Schuljahre anlegen': 'Anleitungen/Administration/Schuljahre_anlegen.md'
-      - 'Termine anlegen': 'Anleitungen/Administration/Termine_anlegen.md'
+      - 'Schuljahre verwalten': 'Anleitungen/Administration/Schuljahre_verwalten.md'
       #- 'Import': 'Anleitungen/Administration/Import.md'
       - 'Schüler und Klassen verwalten': 'Anleitungen/Administration/Schüler_und_Klassen_verwalten.md'
       - 'Backups': 'Anleitungen/Administration/Backup.md'
