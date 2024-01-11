@@ -69,6 +69,8 @@ nav:
       - 'Mein Unterricht':
           - 'Klassen & Kurse anlegen': 'Anleitungen/Schritt_für_Schritt/Klassen_und_Kurse_anlegen.md'
           - 'Unterricht zu "Mein Unterricht" hinzufügen': 'Anleitungen/Schritt_für_Schritt/mein_unterricht_hinzufügen.md'
+      - 'Schüleransicht':
+          - 'Förderbedarf eintragen': 'Anleitungen/Schritt_für_Schritt/Foerderbedarf_eintragen.md'
 
 
 
