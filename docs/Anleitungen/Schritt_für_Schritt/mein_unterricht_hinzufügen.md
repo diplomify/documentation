@@ -19,7 +19,7 @@ hide:
 Prinzipiell gibt es vier Möglichkeiten, Unterricht hinzuzufügen:
 
 ### 1.1 Einen Unterricht/Kurs selbst anlegen
-Jeder [selbst angelegte Kurs](../../Anleitungen/Schritt_für_Schritt/Klassen_und_Kurse_anlegen.md) wird automatisch dem Ersteller/der Erstellerin zugeordnet. Entsprechend taucht er dann in deiner Unterrichtsübersicht auf.
+Jeder [selbst angelegte Kurs](../../Anleitungen/Schritt_für_Schritt/Unterricht_und_Kurse_anlegen.md) wird automatisch dem Ersteller/der Erstellerin zugeordnet. Entsprechend taucht er dann in deiner Unterrichtsübersicht auf.
 
 ### 1.2 Automatisch in der Notentabelle
 Sobald du mehr als drei Noten in einem Fach bei einer Klasse eingibst, nimmt Diplomify an, dass es sich dabei um deinen Untericht handelt und fügt ihn automatisch zu "Mein Unterricht" hinzu.

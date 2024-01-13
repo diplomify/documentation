@@ -3,7 +3,7 @@ hide:
   - footer
 ---
 
-![Klasse_und_Kurse_anlegen](/img/02_Schritt_für_Schritt/Kurse_und_Klassen_anlegen.png){ .img-head }
+![Unterricht_und_Kurse_anlegen](/img/02_Schritt_für_Schritt/Kurse_und_Klassen_anlegen.png){ .img-head }
 
 !!! note ""
     **Warum muss ich das überhaupt wissen?**<br>

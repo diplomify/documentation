@@ -56,7 +56,7 @@ Tritt man aus dem Unterricht aus, bleibt er (und alle darin vergebenen Bewertung
 ## Lehrkräfte hinzufügen
 ![Lehrer hinzufügen](../../img/02_Schritt_für_Schritt/lehrer_hinzufuegen.png){ .image-75 }
 
-Als Lehrkraft, die bereits in einem Unterricht ist oder als System- oder Klassenadmin kannst du weitere Lehrkräfte hinzufügen.
+Als Lehrkraft, die bereits in einem Unterricht ist oder als System- oder Klassenadmin, kannst du weitere Lehrkräfte hinzufügen.
 Diesen wird der entsprechende Unterricht dann auch in "Mein Unterricht" angezeigt und sie kann darin alle Bewertungen ändern.<br>
 
 Klicke dazu auf den Button "Lehrer hinzufügen" und suche die gewünschte Lehrkraft. Das grüne <span class="success">**+**</span> fügt anschließend die Lehrkraft hinzu.
@@ -87,10 +87,22 @@ Die Suche ist schulweit. Es werden also auch Kinder aus anderen Klassen, Jahrgä
 
 ## Schüler/innen entfernen
 
-![Einzelfachansicht](../../img/02_Schritt_für_Schritt/einzelfach_schueler_loeschen.png){ .image-50 }
+![Schüler löschen](../../img/02_Schritt_für_Schritt/einzelfach_schueler_loeschen.png){ .image-50 }
 
 Klicke dazu auf das Löschen-Symbol neben dem Schülernamen über dem Bewertungsfeld. <br>
 
 !!! danger ""
     Entfernte Schüler bleiben im System erhalten, verlieren aber alle Bewertungen, die sie in dem entsprechenden Unterricht erhalten haben. <br>
     Diese Bewertungen können nicht wiederhergestellt werden.
+
+<br>
+
+## Kurs aufteilen
+![Kurs aufteilen](../../img/02_Schritt_für_Schritt/kurs_aufteilen.png){ .image-50 }
+
+An dieser Stelle wird der Kurs nach Klassenzugehörigkeit aufgeteilt. <br>
+Wenn also beim Import oder beim Anlegen ungewollt ein Kurs/Unterricht erstellt wurden, in denen Kinder aus mehreren Klassen sind - obwohl es sich eigentlich um klassenweise Unterrichte handelt - kann der Kurs hier zerlegt werden.
+Das hat zur Folge, dass mehrere Unterrichte mit dem Fach dieses Kurses erstellt werden, in denen die zugeordneten SuS alle der gleichen Klasse angehören.
+
+!!! danger ""
+    Dieser Schritt kann nicht rückgängig gemacht werden.

@@ -39,13 +39,13 @@ Wird ein Kurs nicht bei "Mein Unterricht" angezeigt, ist er entweder nicht vorha
 !!! danger ""
     Der Kurs wurde nicht angelegt: 4 Schüler*innen bekommen dieses Fach bereits unterrichtet.
 
-[zum Artikel](../Schritt_f%C3%BCr_Schritt/Klassen_und_Kurse_anlegen.md#41-kurszuordnung-von-sus-nicht-moglich){ .md-button }
+[zum Artikel](../Schritt_f%C3%BCr_Schritt/Unterricht_und_Kurse_anlegen.md#41-kurszuordnung-von-sus-nicht-moglich){ .md-button }
 
 ### SuS aus Kursen/Unterricht entfernen
-[zum Artikel](../Schritt_f%C3%BCr_Schritt/Klassen_und_Kurse_anlegen.md#31-einzelne-schulerinnen-wieder-entfernen){ .md-button }
+[zum Artikel](../Schritt_f%C3%BCr_Schritt/Unterricht_und_Kurse_anlegen.md#31-einzelne-schulerinnen-wieder-entfernen){ .md-button }
 
 ### SuS nachträglich zu Kursen hinzufügen
-[zum Artikel](../Schritt_f%C3%BCr_Schritt/Klassen_und_Kurse_anlegen.md#31-einzelne-schulerinnen-wieder-entfernen){ .md-button }
+[zum Artikel](../Schritt_f%C3%BCr_Schritt/Unterricht_und_Kurse_anlegen.md#31-einzelne-schulerinnen-wieder-entfernen){ .md-button }
 
 ### Ich habe einen Kurs versehentlich gelöscht
 Kurse können nur vom Admin gelöscht werden.<br>
