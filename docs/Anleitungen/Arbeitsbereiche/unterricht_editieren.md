@@ -101,8 +101,8 @@ Klicke dazu auf das Löschen-Symbol neben dem Schülernamen über dem Bewertungs
 ![Kurs aufteilen](../../img/02_Schritt_für_Schritt/kurs_aufteilen.png){ .image-50 }
 
 An dieser Stelle wird der Kurs nach Klassenzugehörigkeit aufgeteilt. <br>
-Wenn also beim Import oder beim Anlegen ungewollt ein Kurs/Unterricht erstellt wurden, in denen Kinder aus mehreren Klassen sind - obwohl es sich eigentlich um klassenweise Unterrichte handelt - kann der Kurs hier zerlegt werden.
-Das hat zur Folge, dass mehrere Unterrichte mit dem Fach dieses Kurses erstellt werden, in denen die zugeordneten SuS alle der gleichen Klasse angehören.
+Wenn also beim Import oder beim Anlegen ungewollt ein Kurs/Unterricht erstellt wurden, in denen Kinder aus mehreren Klassen sind - obwohl es sich eigentlich um klassenweise Unterrichte handelt - kann der Kurs hier zerlegt werden. <br>
+Wenn du einen Kurs aufteilst, wird für jede Klasse ein neuer Kurs erstellt. Die Schüler/innen werden automatisch in die neuen Kurse übertragen. Die Lehrerkräfte werden in alle Kurse übertragen. Alle Noten bleiben erhalten.
 
 !!! danger ""
     Dieser Schritt kann nicht rückgängig gemacht werden.
