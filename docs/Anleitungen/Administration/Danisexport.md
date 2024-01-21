@@ -49,6 +49,13 @@ Nun kann die Exportdatei erstellt werden:
 Klicke dazu rechts auf CSV-Export.
 Bei der anschließenden Abfrage kannst du festlegen in welchem Format die Datei erstellt werden soll. **Wähle bitte unbedingt UTF-8.**
 
+!!! danger ""
+    Die Datei darf nicht "gekürzt" werden. <br>
+    Wenn nur ein Kind verändert werden soll, muss trotzdem mindestens die ganze Klasse des Kindes importiert werden.<br><br>
+    Bei einem Import aktualisiert Diplomify die Klassenlisten. Wenn ein Kind die Klasse wechselt, wird es in der neuen Klasse eingetragen und aus der alten entfernt. Das kann dazu führen, dass andere Kinder fälschlicherweise gelöscht werden, wenn sie nicht in der Importdatei stehen. Zudem werden die Bewertungen des Kindes zurückgesetzt, da es jetzt von anderen Lehrkräften bewertet wird.
+
+    Bitte daher immer die gesamte Klasse in der Importdatei aufführen. Ein direkter Import des kompletten Exports von Danis ist am besten. Individuelle Änderungen können in Diplomify gemacht werden, aber neue Schüler sollten dort nicht angelegt werden, da diese keine Import-ID erhalten. - Was beim nächsten Import zu Zuweisungsproblemen führt.
+
 <hr>
 
 Die erstellte Datei kann nun in Diplomify importiert werden. <br>
