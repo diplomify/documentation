@@ -19,7 +19,7 @@ Nachdem alle Zeugnisse gedruckt wurden und eventuelle Korrekturen ebenfalls erle
     - nachträgliche Änderungen durch Lehrkräfte (nicht Admins) ausgeschlossen<br>
 
 
-### 1. Die finale Version der Zeugnisse erstellen.
+### 1. Die finale Version der Zeugnisse erstellen
 
 !!! bread ""
     Administrationsbereich > Berichte | Zeugniserstellung
