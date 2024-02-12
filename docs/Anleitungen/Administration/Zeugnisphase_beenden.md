@@ -32,7 +32,7 @@ Dieses Zeugnispaket kann auf dem Diplomify-Server verbleiben - wir empfehlen abe
 !!! bread ""
     Administrationsbereich > Berichte | Zeugniserstellung
 
-[Backups in regelmäßigen Abständen](../../Anleitungen/Administration/Backups.md) empfehlen sich grundsätzlich. Dabei werden auch die eben erstellten Zeugnisse mitgesichert.
+[Backups in regelmäßigen Abständen](../../Anleitungen/Administration/Backup.md) empfehlen sich grundsätzlich. Dabei werden auch die eben erstellten Zeugnisse mitgesichert.
 
 ### 3. Halbjahr abschließen
 Um nun noch nachträgliche Änderungen durch Lehrkräfte zu verhindern, kann das Halbjahr gesperrt werden.
