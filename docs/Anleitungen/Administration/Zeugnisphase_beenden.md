@@ -22,7 +22,7 @@ Nachdem alle Zeugnisse gedruckt wurden und eventuelle Korrekturen ebenfalls erle
 ### 1. Die finale Version der Zeugnisse erstellen.
 
 !!! bread ""
-    Administrationsbereich > Konfiguration > Backups | Backup erstellen
+    Administrationsbereich > Berichte | Zeugniserstellung
 
 Da möglicherweise nach der Zeugnisausgabe noch Fehler entdeckt und korrigiert werden, lohnt es sich, [den endgültigen Stand der Zeugnisse final festzuhalten.](../../Anleitungen/Administration/Alle_Zeugnisse_drucken.md) 
 Dieses Zeugnispaket kann auf dem Diplomify-Server verbleiben - wir empfehlen aber, es zusätzlich herunterzuladen und auf einem lokalen (datenschutzkonformen) Datenträger zu sichern.
@@ -30,7 +30,7 @@ Dieses Zeugnispaket kann auf dem Diplomify-Server verbleiben - wir empfehlen abe
 ### 2. Backup erstellen
 
 !!! bread ""
-    Administrationsbereich > Berichte | Zeugniserstellung
+    Administrationsbereich > Konfiguration > Backups | Backup erstellen
 
 [Backups in regelmäßigen Abständen](../../Anleitungen/Administration/Backup.md) empfehlen sich grundsätzlich. Dabei werden auch die eben erstellten Zeugnisse mitgesichert.
 
