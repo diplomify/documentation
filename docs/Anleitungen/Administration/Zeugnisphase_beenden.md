@@ -9,7 +9,7 @@ hide:
 
 ## Welche Schritte sind sinnvoll?
 
-Nachdem alle Zeugnisse gedruckt wurden und eventuelle Korrekturen ebenfalls erledigt sind, kann das Halbjahr beendet werden. Wir empfehlen das **frühestens 14 Tage** und **spätestens 30 Tage** nach der Zeugnisausgabe zu erledigen, da anschließend Änderungen nur noch vom Admin vorgenommen werden können.<br>
+Nachdem alle Zeugnisse gedruckt wurden und eventuelle Korrekturen ebenfalls erledigt sind, kann das Halbjahr beendet werden. Wir empfehlen das **frühestens 14 Tage** und **spätestens 30 Tage** nach der Zeugnisausgabe zu erledigen, um zu verhindern, dass Änderungen am letzten Halbjahr zu lange im neuen Halbjahr möglich sind.<br>
 
 
 !!! note ""
