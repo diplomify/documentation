@@ -83,7 +83,7 @@ nav:
       #- 'Grundlegende ToDos': 'Anleitungen/Administration/Inbetriebnahme.md'
       - 'Fächer & Fachgruppen verwalten': 'Anleitungen/Administration/Fächer_anlegen.md'
       - 'Schuljahre verwalten': 'Anleitungen/Administration/Schuljahre_verwalten.md'
-      #- 'Import': 'Anleitungen/Administration/Import.md'
+      - 'Import': 'Anleitungen/Administration/Import.md'
       - 'Schüler und Klassen verwalten': 'Anleitungen/Administration/Schüler_und_Klassen_verwalten.md'
       - 'Backups': 'Anleitungen/Administration/Backup.md'
       - 'Versetzungswarnungen': 'Anleitungen/Administration/Versetzungswarnungen_schulweit_drucken.md'
