@@ -74,7 +74,7 @@ Diese können aber leicht von den entsprechenden KuK angelegt werden.
 
 <br>
 ### CSV-Lehrerimport (Vorbereitung)
-Die CSV-Datei für den Schülerimport **muss** folgende Spalten enthalten: 
+Die CSV-Datei für den Schülerimport **muss** folgende Spalten enthalten (Andernfalls wird der Import abgebrochen. Zusätzliche Spalten werden ignoriert): 
 !!! box ""
     - **Nachname**
     - **Vorname**
@@ -94,7 +94,7 @@ Die CSV-Datei für den Schülerimport **muss** folgende Spalten enthalten:
 !!! warning ""
     Die csv-Datei **muss** im Format UTF-8 formatiert sein und die Spalten müssen per **Semikolon** voneinander getrennt sein. <br>
     
-    **Beispiel [ansehen](../../img/01_Administration/lehrer_csv_beispiel.png) oder [herunterladen](../../files/lehrer_csv_beispiel.csv)**
+    **Beispiel [ansehen](../../img/01_Administration/lehrer_csv_beispiel.png) oder [herunterladen](../../files/lehrer_csv.csv)**
 
 
 !!! success ""
